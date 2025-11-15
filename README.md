@@ -17,6 +17,8 @@ Papers within each category are listed in reverse chronoligcal order. Categories
 
 [RNA Regulation](#rna-regulation)  
 
+[RNA Therapeutics](#rna-therapeutics)
+
 [Structural methods](#structural-methods)  
   - [SAXS and WAXS](#saxs-and-waxs)
   - [Fluorescence studies](#fluorescence_studies)
@@ -31,7 +33,7 @@ Papers within each category are listed in reverse chronoligcal order. Categories
 
 [Unsorted papers](#unsorted-papers)
 
-## Example
+## Template 
 
 **Title**  
 Author list  
@@ -50,10 +52,10 @@ Yongdae Shin and Clifford P. Brangwynne
 
 ### Structure studies  
 
-**Title**  
-Author list  
-*Journal, Month Year.*  
-[[doi](link)]  
+**Control of gene output by intron RNA structure**  
+ Leonard Schärfen, Pernille Bech, Paulina Podszywałow-Bartnicka, Karla M. Neugebauer
+*Preprint, November 2025.*  
+[[10.1101/2025.11.08.687378](https://www.biorxiv.org/content/10.1101/2025.11.08.687378v1)]  
 \__tag1_tag2_tag3_\_  
 
 ### Cellular studies 
@@ -75,7 +77,7 @@ Author list
 ## RNA structural ensembles
 
 **Driving forces of RNA condensation revealed through coarse-grained modeling with explicit Mg2+**  
-[Shanlong Li](https://orcid.org/0000-0003-3713-2931) and [Jianhan Chen](https://orcid.org/0000-0002-5281-1150)  
+Shanlong Li and Jianhan Chen  
 *PNAS, October 2025*  
 [[10.1073/pnas.2504583122](https://www.pnas.org/doi/10.1073/pnas.2504583122)]  
 
@@ -101,10 +103,23 @@ Hollie J. Hindley, Zechuan Gong, Shafagh Moradian, Maria Grazia Giuliano, Andrei
 [[10.1038/s41467-025-64759-3](https://www.nature.com/articles/s41467-025-64759-3)]  
 \__ribosome_rtc_\_  
 
+## RNA Therapeutics
+
+**RNA stability enhancers for durable base-modified mRNA therapeutics**   
+Soo-Jin Jung, Jenny J. Seo, Sunghan Lee, Seong-In Hyun, Ji-eun Lee, Sojeong Lee, Yeji Lee, Hyeshik Chang, Hyukjin Lee, Jin-Hong Kim & V. Narry Kim  
+*Journal, Month Year.*  
+[[doi](link)]  
+\__tag1_tag2_tag3_\_  
+
 ## Structural methods 
 
 ### SAXS, WAXS
 
+**Title**  
+Author list  
+*Journal, Month Year.*  
+[[doi](link)]  
+\__tag1_tag2_tag3_\_  
 
 ### Fluorescence studies
 
