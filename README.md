@@ -1,6 +1,7 @@
 This is an attempt to document the most relevant papers for research in the Pollack lab into RNA structure-function and RNA-protein interactions. Inspired by [this repository](https://github.com/yangkky/Machine-learning-for-proteins) 
 
-Papers within each category are listed in reverse chronoligcal order. Categories subject to reorganization as the collection develops, and TBD are a list of tags for easier searching.
+
+Papers within each category are listed in reverse chronoligcal order. Categories subject to reorganization as the collection develops, and tags are included for easier searching. 
 
 ## Categories:  
 
@@ -10,20 +11,25 @@ Papers within each category are listed in reverse chronoligcal order. Categories
   - [Cellular studies](#cellular-studies)  
   - [Simulation](#simulation)  
 
+[Riboswitches](#riboswitches)  
+
 [RNA structural ensembles](#rna-structural-ensembles)  
 
 [RNA Regulation](#rna-regulation)  
 
 [Structural methods](#structural-methods)  
+  - [SAXS and WAXS](#saxs-and-waxs)
+  - [Fluorescence studies](#fluorescence_studies)
 
 [RNA Bioinformatics](#rna-bioinformatics)
   - [Structure prediction](#structure-prediction)
   - [Web tools](#web-tools)
 
-[Riboswitches](#riboswitches)  
+[Broad bio computation](#broad-bio-computation)
 
-[Mixed RNA and protein condensates](#mixed-rna-and-protein-condensates)  
+[Protein structure function](#protein-structure-function)
 
+[Unsorted papers](#unsorted-papers)
 
 ## Example
 
@@ -75,15 +81,11 @@ Author list
 
 ## Riboswitches
 
-### Reviews
-
 **Title**  
 Author list  
 *Journal, Month Year.*  
 [[doi](link)]  
 \__tag1_tag2_tag3_\_  
-
-### Articles
 
 ## RNA regulation
 
@@ -91,7 +93,7 @@ Author list
 Emilie Gabs, Emil Aalto-Setälä, Aada Välisaari, Anssi M. Malinen, Torben Heick Jensen, Stephen H. McLaughlin, Lori A. Passmore, and Matti Turtola  
 *Genes & Development, August 2025*  
 [[10.1101/gad.352912.125](https://genesdev.cshlp.org/content/39/21-22/1377.full)]  
-\_homopolymer_polyA\_  
+\__homopolymer_polyA_\_  
 
 **Heterogeneity in responses to ribosome-targeting antibiotics mediated by bacterial RNA repair**  
 Hollie J. Hindley, Zechuan Gong, Shafagh Moradian, Maria Grazia Giuliano, Andrei Sapelkin, Ioly Kotta-Loizou, Martin Buck, Christoph Engl & Andrea Y. Weiße 
@@ -129,7 +131,15 @@ Ksenia Kuznetsova, Maxim Scheremetjew, Jialin Yin, HongKee Moon, Diego A Vargas,
 *Nucleic Acids Research, November 2025*  
 [[10.1093/nar/gkaf1104](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1104/8317324?login=true)]  
 
-## General computational techniques
+## Broad bio computation  
+
+**Title**  
+Author list  
+*Journal, Month Year.*  
+[[doi](link)]  
+\__tag1_tag2_tag3_\_  
+
+## Protein structure function
 
 **Title**  
 Author list  
@@ -145,10 +155,3 @@ Author list
 [[doi](link)]  
 \__tag1_tag2_tag3_\_  
 
-## Misc. Protein structure-function
-
-**Title**  
-Author list  
-*Journal, Month Year.*  
-[[doi](link)]  
-\__tag1_tag2_tag3_\_  
