@@ -45,6 +45,12 @@ Author list
 
 ### Reviews  
 
+**Structured protein domains enter the spotlight: modulators of biomolecular condensate form and function**  
+Nathaniel Hess and Jerelle Joseph  
+*Trends in Biochemical Sciences, May 2025.*  
+[[10.1016/j.tibs.2024.12.008](https://www.sciencedirect.com/science/article/pii/S0968000424002809)]  
+\__mpipi_tag2_tag3_\_  
+
 **Liquid phase condensation in cell physiology and disease**  
 Yongdae Shin and Clifford P. Brangwynne  
 *Science, September 2017*  
@@ -107,8 +113,8 @@ Hollie J. Hindley, Zechuan Gong, Shafagh Moradian, Maria Grazia Giuliano, Andrei
 
 **RNA stability enhancers for durable base-modified mRNA therapeutics**   
 Soo-Jin Jung, Jenny J. Seo, Sunghan Lee, Seong-In Hyun, Ji-eun Lee, Sojeong Lee, Yeji Lee, Hyeshik Chang, Hyukjin Lee, Jin-Hong Kim & V. Narry Kim  
-*Journal, Month Year.*  
-[[doi](link)]  
+*Nature Biotechnology, November 2025.*  
+[[10.1038/s41587-025-02891-7](https://www.nature.com/articles/s41587-025-02891-7)]  
 \__tag1_tag2_tag3_\_  
 
 ## Structural methods 
