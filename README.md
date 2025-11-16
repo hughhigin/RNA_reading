@@ -39,7 +39,7 @@ Papers within each category are listed in reverse chronoligcal order. Categories
 Author list  
 *Journal, Month Year.*  
 [[doi](link)]  
-\__tag1_tag2_tag3_\_  
+\___\_
 
 ## Condensates  
 
@@ -49,20 +49,21 @@ Author list
 Nathaniel Hess and Jerelle Joseph  
 *Trends in Biochemical Sciences, May Year.*  
 [[10.1016/j.tibs.2024.12.008](https://www.sciencedirect.com/science/article/pii/S0968000424002809)]  
-\__mpipi_tag2_tag3_\_  
+\__mpipi_rbp_\_  
 
 **Liquid phase condensation in cell physiology and disease**  
 Yongdae Shin and Clifford P. Brangwynne  
 *Science, September 2017*  
 [[10.1126/science.aaf4382](https://www.science.org/doi/full/10.1126/science.aaf4382)]  
+\___\_  
 
 ### Structure studies  
 
-**Control of gene output by intron RNA structure**  
-Leonard Schärfen, Pernille Bech, Paulina Podszywałow-Bartnicka, Karla M. Neugebauer
-*Preprint, November 2025.*  
-[[10.1101/2025.11.08.687378](https://www.biorxiv.org/content/10.1101/2025.11.08.687378v1)]  
-\__tag1_tag2_tag3_\_  
+**Visualizing TERRA RNA G-quadruplex unfolding in FUS biomolecular condensates**  
+Tongyin Zheng, Nicolas L Fawzi  
+*Preprint, October 2025.*    
+[[10.1101/2025.10.29.685336](https://doi.org/10.1101/2025.10.29.685336)]  
+\__fus_nmr_\_  
 
 ### Cellular studies 
 
@@ -70,16 +71,15 @@ Leonard Schärfen, Pernille Bech, Paulina Podszywałow-Bartnicka, Karla M. Neuge
 Patrizia Pessina, Mika Nevo, Junchao Shi, Srikanth Kodali, Eduard Casas, Yingzhi Cui, Alicia L. Richards, Emily J. Park, Xi Chen, Florencia Levin-Ferreyra, Alejandra Rivera Tostado, Erica Stevenson, Nevan J. Krogan, Danielle L. Swaney, Qilong Ying, Qi Chen, Justin Brumbaugh & Bruno Di Stefano  
 *Nature Biotechnology, October 2025.*    
 [[10.1038/s41587-025-02853-z](https://doi.org/10.1038/s41587-025-02853-z)]  
-\__tag1_tag2_tag3_\_  
+\___\_  
 
 ### Simulation
 
 **Physics-driven coarse-grained model for biomolecular phase separation with near-quantitative accuracy**  
-Jerelle A. Joseph, Aleks Reinhardt, Anne Aguirre, Pin Yu Chew, Kieran O. Russell, Jorge R. Espinosa, Adiran Garaizar & Rosana Collepardo-Guevara *Journal, Month Year.*    
-[[
-10.1038/s43588-021-00155-3
-](https://doi.org/10.1038/s43588-021-00155-3)]  
-\__tag1_tag2_tag3_\_  
+Jerelle A. Joseph, Aleks Reinhardt, Anne Aguirre, Pin Yu Chew, Kieran O. Russell, Jorge R. Espinosa, Adiran Garaizar & Rosana Collepardo-Guevara  
+*Journal, Month Year.*    
+[[10.1038/s43588-021-00155-3](https://doi.org/10.1038/s43588-021-00155-3)]  
+\__mpipi_jacsRefMay2025_\_  
 
 ## RNA structural ensembles
 
@@ -87,6 +87,7 @@ Jerelle A. Joseph, Aleks Reinhardt, Anne Aguirre, Pin Yu Chew, Kieran O. Russell
 Shanlong Li and Jianhan Chen  
 *PNAS, October 2025*  
 [[10.1073/pnas.2504583122](https://www.pnas.org/doi/10.1073/pnas.2504583122)]  
+\___\_
 
 ## Riboswitches
 
@@ -94,9 +95,15 @@ Shanlong Li and Jianhan Chen
 Author list  
 *Journal, Month Year.*  
 [[doi](link)]  
-\__tag1_tag2_tag3_\_  
+\___\_
 
 ## RNA regulation
+
+**Control of gene output by intron RNA structure**  
+Leonard Schärfen, Pernille Bech, Paulina Podszywałow-Bartnicka, Karla M. Neugebauer
+*Preprint, November 2025.*  
+[[10.1101/2025.11.08.687378](https://www.biorxiv.org/content/10.1101/2025.11.08.687378v1)]  
+\___\_
 
 **A kinetic ruler controls mRNA poly(A) tail length**  
 Emilie Gabs, Emil Aalto-Setälä, Aada Välisaari, Anssi M. Malinen, Torben Heick Jensen, Stephen H. McLaughlin, Lori A. Passmore, and Matti Turtola  
@@ -116,7 +123,7 @@ Hollie J. Hindley, Zechuan Gong, Shafagh Moradian, Maria Grazia Giuliano, Andrei
 Soo-Jin Jung, Jenny J. Seo, Sunghan Lee, Seong-In Hyun, Ji-eun Lee, Sojeong Lee, Yeji Lee, Hyeshik Chang, Hyukjin Lee, Jin-Hong Kim & V. Narry Kim  
 *Nature Biotechnology, November 2025.*  
 [[10.1038/s41587-025-02891-7](https://www.nature.com/articles/s41587-025-02891-7)]  
-\__tag1_tag2_tag3_\_  
+\___\_
 
 ## Structural methods 
 
@@ -126,7 +133,7 @@ Soo-Jin Jung, Jenny J. Seo, Sunghan Lee, Seong-In Hyun, Ji-eun Lee, Sojeong Lee,
 Author list  
 *Journal, Month Year.*  
 [[doi](link)]  
-\__tag1_tag2_tag3_\_  
+\___\_
 
 ### Fluorescence studies
 
@@ -134,7 +141,7 @@ Author list
 Author list  
 *Journal, Month Year.*  
 [[doi](link)]  
-\__tag1_tag2_tag3_\_  
+\___\_
 
 ## RNA Bioinformatics
 
@@ -144,7 +151,7 @@ Author list
 Author list  
 *Journal, Month Year.*  
 [[doi](link)]  
-\__tag1_tag2_tag3_\_  
+\___\_
 
 ### Web tools
 
@@ -152,6 +159,7 @@ Author list
 Ksenia Kuznetsova, Maxim Scheremetjew, Jialin Yin, HongKee Moon, Diego A Vargas, Anna Hadarovich, Natasha Lewis, Carsten Hoege, Chi Fung Willis Chow, David Kuster, Jik Nijssen, Alberto Hernandez-Armendariz, Jonathan C Savage, Yu Wei, Silja Zedlitz, Hari Raj Singh, Soumyadeep Ghosh, Allysa P Kemraj, Lena Hersemann, Anthony A Hyman, Diana M Mitrea, Agnes Toth-Petroczy  
 *Nucleic Acids Research, November 2025*  
 [[10.1093/nar/gkaf1104](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1104/8317324?login=true)]  
+\___\_
 
 ## Broad bio computation  
 
@@ -159,7 +167,7 @@ Ksenia Kuznetsova, Maxim Scheremetjew, Jialin Yin, HongKee Moon, Diego A Vargas,
 Author list  
 *Journal, Month Year.*  
 [[doi](link)]  
-\__tag1_tag2_tag3_\_  
+\___\_
 
 ## Protein structure function
 
@@ -167,7 +175,7 @@ Author list
 Author list  
 *Journal, Month Year.*  
 [[doi](link)]  
-\__tag1_tag2_tag3_\_  
+\___\_
 
 ## Unsorted papers
 
@@ -175,5 +183,5 @@ Author list
 Author list  
 *Journal, Month Year.*  
 [[doi](link)]  
-\__tag1_tag2_tag3_\_  
+\___\_
 
