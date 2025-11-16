@@ -47,7 +47,7 @@ Author list
 
 **Structured protein domains enter the spotlight: modulators of biomolecular condensate form and function**  
 Nathaniel Hess and Jerelle Joseph  
-*Trends in Biochemical Sciences, May 2025.*  
+*Trends in Biochemical Sciences, May Year.*  
 [[10.1016/j.tibs.2024.12.008](https://www.sciencedirect.com/science/article/pii/S0968000424002809)]  
 \__mpipi_tag2_tag3_\_  
 
@@ -59,25 +59,26 @@ Yongdae Shin and Clifford P. Brangwynne
 ### Structure studies  
 
 **Control of gene output by intron RNA structure**  
- Leonard Schärfen, Pernille Bech, Paulina Podszywałow-Bartnicka, Karla M. Neugebauer
+Leonard Schärfen, Pernille Bech, Paulina Podszywałow-Bartnicka, Karla M. Neugebauer
 *Preprint, November 2025.*  
 [[10.1101/2025.11.08.687378](https://www.biorxiv.org/content/10.1101/2025.11.08.687378v1)]  
 \__tag1_tag2_tag3_\_  
 
 ### Cellular studies 
 
-**Title**  
-Author list  
-*Journal, Month Year.*  
-[[doi](link)]  
+**Selective RNA sequestration in biomolecular condensates directs cell fate transitions**   
+Patrizia Pessina, Mika Nevo, Junchao Shi, Srikanth Kodali, Eduard Casas, Yingzhi Cui, Alicia L. Richards, Emily J. Park, Xi Chen, Florencia Levin-Ferreyra, Alejandra Rivera Tostado, Erica Stevenson, Nevan J. Krogan, Danielle L. Swaney, Qilong Ying, Qi Chen, Justin Brumbaugh & Bruno Di Stefano  
+*Nature Biotechnology, October 2025.*    
+[[10.1038/s41587-025-02853-z](https://doi.org/10.1038/s41587-025-02853-z)]  
 \__tag1_tag2_tag3_\_  
 
 ### Simulation
 
-**Title**  
-Author list  
-*Journal, Month Year.*  
-[[doi](link)]  
+**Physics-driven coarse-grained model for biomolecular phase separation with near-quantitative accuracy**  
+Jerelle A. Joseph, Aleks Reinhardt, Anne Aguirre, Pin Yu Chew, Kieran O. Russell, Jorge R. Espinosa, Adiran Garaizar & Rosana Collepardo-Guevara *Journal, Month Year.*    
+[[
+10.1038/s43588-021-00155-3
+](https://doi.org/10.1038/s43588-021-00155-3)]  
 \__tag1_tag2_tag3_\_  
 
 ## RNA structural ensembles
