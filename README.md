@@ -185,3 +185,9 @@ Author list
 [[doi](link)]  
 \___\_
 
+
+**Residue-by-Residue View of In&#xa0;Vitro FUS Granules that Bind the C-Terminal Domain of RNA Polymerase II**  
+Kathleen A. Burke, Abigail M. Janke, Christy L. Rhine, Nicolas L. Fawzi  
+*Molecular Cell, October 2015.*  
+[[10.1016/j.molcel.2015.09.006](https://doi.org/10.1016/j.molcel.2015.09.006)]  
+\___\_  

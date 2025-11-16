@@ -73,31 +73,32 @@ for ris in ris_files:
 
     for line in rlines:
         if line.startswith('T1'):
-            title = line[ris_start:]
+            title = line[ris_start:-1]
         elif line.startswith('AU'):
-            asplit = line[ris_start:].split(', ')
+            asplit = line[ris_start:-1].split(', ')
             authors = authors + asplit[1] + ' ' + asplit[0] + ', '
         elif line.startswith('DO'):
-            doi = line[ris_start:] 
+            doi = line[ris_start:-1] 
         elif line.startswith('T2'):
-            journal = line[ris_start:]
+            journal = line[ris_start:-1]
         elif line.startswith('Y1'):
-            date = line[ris_start:]
+            date = line[ris_start:-1]
             dnums = date.split('/')
             yr = dnums[0]
             month = months[int(dnums[1])]
         elif line.startswith('UR'):
-            url = line[ris_start:]
+            url = line[ris_start:-1]
 
     # Append to end of file
-    new_reflines.append('')
-    new_reflines.append('**' + title + '**  ')
-    new_reflines.append(authors[:-2] + '  ')
-    new_reflines.append('*' + journal + ', ' + month + ' ' + yr + '.*  ')
-    new_reflines.append('[[' + doi + '](' + url + ')]  ')
-    new_reflines.append('\\___\\_')
+    new_reflines.append('\n')
+    new_reflines.append('**' + title + '**  \n')
+    new_reflines.append(authors[:-2] + '  \n')
+    new_reflines.append('*' + journal + ', ' + month + ' ' + yr + '.*  \n')
+    new_reflines.append('[[' + doi + '](' + url + ')]  \n')
+    new_reflines.append('\\___\\_  \n')
     
     print('Added ' + ris)
 
-with open(readme, 'a') as reffile
+with open(readme, 'a') as reffile:
     reffile.writelines(new_reflines)
+
