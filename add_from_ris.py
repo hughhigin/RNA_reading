@@ -72,16 +72,19 @@ for ris in ris_files:
     url = '' 
 
     for line in rlines:
-        if line.startswith('T1'):
+        if line.startswith('T1') or line.startswith('TI'):
             title = line[ris_start:-1]
         elif line.startswith('AU'):
             asplit = line[ris_start:-1].split(', ')
-            authors = authors + asplit[1] + ' ' + asplit[0] + ', '
+            if len(asplit) < 3:
+                authors = authors + asplit[0] + ', '
+            else: 
+                authors = authors + asplit[1] + ' ' + asplit[0] + ', '
         elif line.startswith('DO'):
             doi = line[ris_start:-1] 
-        elif line.startswith('T2'):
+        elif line.startswith('T2') or line.startswith('JO'):
             journal = line[ris_start:-1]
-        elif line.startswith('Y1'):
+        elif line.startswith('Y1') or line.startswith('DA'): 
             date = line[ris_start:-1]
             dnums = date.split('/')
             yr = dnums[0]

@@ -73,6 +73,18 @@ Patrizia Pessina, Mika Nevo, Junchao Shi, Srikanth Kodali, Eduard Casas, Yingzhi
 [[10.1038/s41587-025-02853-z](https://doi.org/10.1038/s41587-025-02853-z)]  
 \___\_  
 
+**NMR and EPR reveal a compaction of the RNA-binding protein FUS upon droplet formation**  
+Emmanouilidis, Esteban-Hofer, Damberger, de Vries, Nguyen, Ibáñez, Mergenthal, Klotzsch, Yulikov, Jeschke, Allain  
+*Nature Chemical Biology,  March 2021.*  
+[[10.1038/s41589-021-00752-3](https://doi.org/10.1038/s41589-021-00752-3)]  
+\___\_  
+
+**Residue-by-Residue View of In&#xa0;Vitro FUS Granules that Bind the C-Terminal Domain of RNA Polymerase II**  
+Kathleen A. Burke, Abigail M. Janke, Christy L. Rhine, Nicolas L. Fawzi  
+*Molecular Cell, October 2015.*  
+[[10.1016/j.molcel.2015.09.006](https://doi.org/10.1016/j.molcel.2015.09.006)]  
+\___\_  
+
 ### Simulation
 
 **Physics-driven coarse-grained model for biomolecular phase separation with near-quantitative accuracy**  
@@ -104,6 +116,12 @@ Leonard Schärfen, Pernille Bech, Paulina Podszywałow-Bartnicka, Karla M. Neuge
 *Preprint, November 2025.*  
 [[10.1101/2025.11.08.687378](https://www.biorxiv.org/content/10.1101/2025.11.08.687378v1)]  
 \___\_
+
+**Pan-modification profiling facilitates a cross-evolutionary dissection of the thermoregulated ribosomal epitranscriptome**  
+Garcia-Campos, Georgeson, Nir, Reichelt, Fluke, Matzov, Iyer, Burkhart, Lui, Kustanovich, Grünberger, Thalalla-Gamage, Howpay-Manage, Gerovac, Alexandre, Nobe, Nowak, Perera, Apostle, Fang, Glatt, Jona, Ferreira-Cerca, Vogel, Taoka, Meier, Westhof, Santangelo, Grohmann, Shalev-Benami, Schwartz  
+*Cell, October 2025.*  
+[[10.1016/j.cell.2025.09.014](https://doi.org/10.1016/j.cell.2025.09.014)]  
+\___\_  
 
 **A kinetic ruler controls mRNA poly(A) tail length**  
 Emilie Gabs, Emil Aalto-Setälä, Aada Välisaari, Anssi M. Malinen, Torben Heick Jensen, Stephen H. McLaughlin, Lori A. Passmore, and Matti Turtola  
@@ -166,7 +184,7 @@ Ksenia Kuznetsova, Maxim Scheremetjew, Jialin Yin, HongKee Moon, Diego A Vargas,
 **Title**  
 Author list  
 *Journal, Month Year.*  
-[[doi](link)]  
+[[10.1038/s41589-021-00752-3](https://doi.org/10.1038/s41589-021-00752-3)]  
 \___\_
 
 ## Protein structure function
@@ -191,3 +209,41 @@ Kathleen A. Burke, Abigail M. Janke, Christy L. Rhine, Nicolas L. Fawzi
 *Molecular Cell, October 2015.*  
 [[10.1016/j.molcel.2015.09.006](https://doi.org/10.1016/j.molcel.2015.09.006)]  
 \___\_  
+
+**FUS and TDP-43 Phases in Health and Disease**  
+Portz, Lee, Shorter  
+*Trends in Biochemical Sciences, July 2021.*  
+[[10.1016/j.tibs.2020.12.005](https://doi.org/10.1016/j.tibs.2020.12.005)]  
+\___\_  
+
+**Circadian clock control of ribosome composition promotes rhythmic translation and termination fidelity**  
+Lamb, Castillo, Porter, Wu, Purvine, Best, Zink, Preh, Shen, Sachs, Bell-Pedersen  
+*Cell Reports, November 2025.*  
+[[10.1016/j.celrep.2025.116484](https://doi.org/10.1016/j.celrep.2025.116484)]  
+\___\_  
+
+
+**Cryo-EM reveals open and closed Asgard chromatin assemblies**  
+Ranawat, Cajili, Lopez-Barbosa, Quail, Dame, Dodonova  
+*Molecular Cell,  October 2025.*  
+[[10.1016/j.molcel.2025.10.001](https://doi.org/10.1016/j.molcel.2025.10.001)]  
+\___\_  
+
+**Unlocking the regulatory code of RNA: launching the Human RNome Project**  
+Adams, Boileau, Bujnicki, Cheung, Conticello, Dedon, Dieterich, Gallo, Göke, Helm, Jantsch, Kaiser, Lee, Marchand, Mortazavi, Motorin, Schwartz, Tolbert, Williamson, The International Human RNome Project Consortium  
+*Genome Biology,  October 2025.*  
+[[10.1186/s13059-025-03824-y](https://doi.org/10.1186/s13059-025-03824-y)]  
+\___\_  
+
+**Mapping rRNA, tRNA, and mRNA modifications in ribosomes at high resolution**  
+Koziej, Glatt  
+*Trends in Biochemical Sciences, November 2025.*  
+[[10.1016/j.tibs.2025.08.007](https://doi.org/10.1016/j.tibs.2025.08.007)]  
+\___\_  
+
+**Targeting RNA with small molecules using state-of-the-art methods provides highly predictive affinities of riboswitch inhibitors**  
+Ansari, Liu, Hédin, Hénin, Ponder, Ren, Piquemal, Lagardère, El Hage  
+*Communications Biology,  October 2025.*  
+[[10.1038/s42003-025-08809-y](https://doi.org/10.1038/s42003-025-08809-y)]  
+\___\_  
+
