@@ -57,6 +57,12 @@ Portz, Lee, Shorter
 [[10.1016/j.tibs.2020.12.005](https://doi.org/10.1016/j.tibs.2020.12.005)]  
 \___\_  
 
+**Mechanisms and Regulation of RNA Condensation in RNP Granule Formation**  
+Tauber, Tauber, Parker  
+*Trends in Biochemical Sciences, September 2020.*  
+[[10.1016/j.tibs.2020.05.002](https://doi.org/10.1016/j.tibs.2020.05.002)]  
+\___\_  
+
 **Liquid phase condensation in cell physiology and disease**  
 Yongdae Shin and Clifford P. Brangwynne  
 *Science, September 2017*  
@@ -99,19 +105,37 @@ Kathleen A. Burke, Abigail M. Janke, Christy L. Rhine, Nicolas L. Fawzi
 
 ### Simulation
 
-**Physics-driven coarse-grained model for biomolecular phase separation with near-quantitative accuracy**  
-Jerelle A. Joseph, Aleks Reinhardt, Anne Aguirre, Pin Yu Chew, Kieran O. Russell, Jorge R. Espinosa, Adiran Garaizar & Rosana Collepardo-Guevara  
-*Journal, Month Year.*    
-[[10.1038/s43588-021-00155-3](https://doi.org/10.1038/s43588-021-00155-3)]  
-\__mpipi_jacsRefMay2025_\_  
-
-## RNA structural ensembles
-
 **Driving forces of RNA condensation revealed through coarse-grained modeling with explicit Mg2+**  
 Shanlong Li and Jianhan Chen  
 *PNAS, October 2025*  
 [[10.1073/pnas.2504583122](https://www.pnas.org/doi/10.1073/pnas.2504583122)]  
 \___\_
+
+**Arginine versus Lysine: Molecular Determinants of Cation–π Interactions in Biomolecular Condensates**  
+Armentia, López, De Sancho  
+*Preprint, January 2025.*  
+[[10.1101/2025.10.01.679751](http://biorxiv.org/content/early/2025/10/02/2025.10.01.679751.abstract)]  
+\___\_  
+**Physics-driven coarse-grained model for biomolecular phase separation with near-quantitative accuracy**  
+Jerelle A. Joseph, Aleks Reinhardt, Anne Aguirre, Pin Yu Chew, Kieran O. Russell, Jorge R. Espinosa, Adiran Garaizar & Rosana Collepardo-Guevara  
+*Nature Computer Science, November 2021.*    
+[[10.1038/s43588-021-00155-3](https://doi.org/10.1038/s43588-021-00155-3)]  
+\__mpipi_jacsRefMay2025_\_  
+
+## RNA structural ensembles
+
+**Characterizing RNA Oligomers Using Stochastic Titration Constant-pH Metadynamics Simulations**  
+Silva, Bussi  
+*J. Chem. Inf. Model., April 2025.*  
+[[10.1021/acs.jcim.4c02185](https://doi.org/10.1021/acs.jcim.4c02185)]  
+\___\_  
+
+**Structural insights into higher-order natural RNA-only multimers**  
+Zhang, Yi, An, Liu, Yao, Li, Zhang  
+*Nature Structural & Molecular Biology, October 2025.*  
+[[10.1038/s41594-025-01650-1](https://doi.org/10.1038/s41594-025-01650-1)]  
+\___\_  
+
 
 ## Riboswitches
 
@@ -189,6 +213,18 @@ Author list
 
 ### Structure prediction
 
+**MetaFold-RNA: Accurate prediction of RNA secondary structure using a meta-learning-guided deep network**  
+Wang, Zhang, Li, Wang, Xue  
+*, January 2025.*  
+[[10.1101/2025.09.18.676970](http://biorxiv.org/content/early/2025/09/20/2025.09.18.676970.abstract)]  
+\___\_  
+
+**AlignmentFold and AlignmentPartition: Improving the align-then-fold approach for RNA secondary structure prediction**  
+Mittal, Mathews  
+*, January 2025.*  
+[[10.1101/2025.07.23.666478](http://biorxiv.org/content/early/2025/07/28/2025.07.23.666478.abstract)]  
+\___\_  
+
 **Title**  
 Author list  
 *Journal, Month Year.*  
@@ -219,6 +255,12 @@ Ranawat, Cajili, Lopez-Barbosa, Quail, Dame, Dodonova
 [[10.1016/j.molcel.2025.10.001](https://doi.org/10.1016/j.molcel.2025.10.001)]  
 \___\_  
 
+**Zincore, an atypical coregulator, binds zinc finger transcription factors to control gene expression**  
+Bianchi, Borza, De Zan, Huelsz-Prince, Gregoricchio, Dekker, Fish, Mazouzi, Kroese, Linder, Hernandez-Quiles, Vermeulen, Celie, Krimpenfort, Song, Zwart, Wessels, Nijman, Perrakis, Brummelkamp  
+*Science,  .*  
+[[10.1126/science.adv2861](https://doi.org/10.1126/science.adv2861)]  
+\___\_  
+
 ## Unsorted papers
 
 **Mapping rRNA, tRNA, and mRNA modifications in ribosomes at high resolution**  
@@ -226,4 +268,5 @@ Koziej, Glatt
 *Trends in Biochemical Sciences, November 2025.*  
 [[10.1016/j.tibs.2025.08.007](https://doi.org/10.1016/j.tibs.2025.08.007)]  
 \___\_  
+
 
