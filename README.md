@@ -47,7 +47,7 @@ Author list
 
 **Structured protein domains enter the spotlight: modulators of biomolecular condensate form and function**  
 Nathaniel Hess and Jerelle Joseph  
-*Trends in Biochemical Sciences, May Year.*  
+*Trends in Biochemical Sciences, May 2025.*  
 [[10.1016/j.tibs.2024.12.008](https://www.sciencedirect.com/science/article/pii/S0968000424002809)]  
 \__mpipi_rbp_\_  
 
@@ -77,7 +77,7 @@ Tongyin Zheng, Nicolas L Fawzi
 [[10.1101/2025.10.29.685336](https://doi.org/10.1101/2025.10.29.685336)]  
 \__fus_nmr_\_  
 
-**Residue-by-Residue View of In&#xa0;Vitro FUS Granules that Bind the C-Terminal Domain of RNA Polymerase II**  
+**Residue-by-Residue View of In-Vitro FUS Granules that Bind the C-Terminal Domain of RNA Polymerase II**  
 Kathleen A. Burke, Abigail M. Janke, Christy L. Rhine, Nicolas L. Fawzi  
 *Molecular Cell, October 2015.*  
 [[10.1016/j.molcel.2015.09.006](https://doi.org/10.1016/j.molcel.2015.09.006)]  
@@ -116,6 +116,7 @@ Armentia, López, De Sancho
 *Preprint, January 2025.*  
 [[10.1101/2025.10.01.679751](http://biorxiv.org/content/early/2025/10/02/2025.10.01.679751.abstract)]  
 \___\_  
+
 **Physics-driven coarse-grained model for biomolecular phase separation with near-quantitative accuracy**  
 Jerelle A. Joseph, Aleks Reinhardt, Anne Aguirre, Pin Yu Chew, Kieran O. Russell, Jorge R. Espinosa, Adiran Garaizar & Rosana Collepardo-Guevara  
 *Nature Computer Science, November 2021.*    
@@ -215,13 +216,13 @@ Author list
 
 **MetaFold-RNA: Accurate prediction of RNA secondary structure using a meta-learning-guided deep network**  
 Wang, Zhang, Li, Wang, Xue  
-*, January 2025.*  
+*Preprint, January 2025.*  
 [[10.1101/2025.09.18.676970](http://biorxiv.org/content/early/2025/09/20/2025.09.18.676970.abstract)]  
 \___\_  
 
 **AlignmentFold and AlignmentPartition: Improving the align-then-fold approach for RNA secondary structure prediction**  
 Mittal, Mathews  
-*, January 2025.*  
+*Preprint, January 2025.*  
 [[10.1101/2025.07.23.666478](http://biorxiv.org/content/early/2025/07/28/2025.07.23.666478.abstract)]  
 \___\_  
 
@@ -257,7 +258,7 @@ Ranawat, Cajili, Lopez-Barbosa, Quail, Dame, Dodonova
 
 **Zincore, an atypical coregulator, binds zinc finger transcription factors to control gene expression**  
 Bianchi, Borza, De Zan, Huelsz-Prince, Gregoricchio, Dekker, Fish, Mazouzi, Kroese, Linder, Hernandez-Quiles, Vermeulen, Celie, Krimpenfort, Song, Zwart, Wessels, Nijman, Perrakis, Brummelkamp  
-*Science,  .*  
+*Science, July 2025.*  
 [[10.1126/science.adv2861](https://doi.org/10.1126/science.adv2861)]  
 \___\_  
 

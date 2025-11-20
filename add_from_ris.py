@@ -92,6 +92,9 @@ for ris in ris_files:
         elif line.startswith('UR'):
             url = line[ris_start:-1]
 
+    # Format fudging
+     
+
     # Append to end of file
     new_reflines.append('\n')
     new_reflines.append('**' + title + '**  \n')
