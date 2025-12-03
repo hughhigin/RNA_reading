@@ -192,6 +192,12 @@ Soo-Jin Jung, Jenny J. Seo, Sunghan Lee, Seong-In Hyun, Ji-eun Lee, Sojeong Lee,
 [[10.1038/s41587-025-02891-7](https://www.nature.com/articles/s41587-025-02891-7)]  
 \___\_
 
+**Factors Affecting Stability of RNA – Temperature, Length, Concentration, pH, and Buffering Species**  
+Chheda, Pradeepan, Esposito, Strezsak, Fernandez-Delgado, Kranz  
+*Journal of Pharmaceutical Sciences, February 2024.*  
+[[https://doi.org/10.1016/j.xphs.2023.11.023](https://www.sciencedirect.com/science/article/pii/S0022354923004987)]  
+\___\_  
+
 ## Structural methods 
 
 ### SAXS, WAXS
@@ -269,5 +275,6 @@ Koziej, Glatt
 *Trends in Biochemical Sciences, November 2025.*  
 [[10.1016/j.tibs.2025.08.007](https://doi.org/10.1016/j.tibs.2025.08.007)]  
 \___\_  
+
 
 
