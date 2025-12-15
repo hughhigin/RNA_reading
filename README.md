@@ -69,6 +69,20 @@ Yongdae Shin and Clifford P. Brangwynne
 [[10.1126/science.aaf4382](https://www.science.org/doi/full/10.1126/science.aaf4382)]  
 \___\_  
 
+### LLPS skepticism
+
+**A validation strategy to assess the role of phase separation as a determinant of macromolecular localization**  
+Hedtfeld, Dammers, Koerner, Musacchio  
+*Molecular Cell, May 2024.*  
+[[https://doi.org/10.1016/j.molcel.2024.03.022](https://www.sciencedirect.com/science/article/pii/S1097276524002673)]  
+\___\_  
+
+**On the role of phase separation in the biogenesis of membraneless compartments**  
+Musacchio  
+*The EMBO Journal, February 2022.*  
+[[10.15252/embj.2021109952](https://doi.org/10.15252/embj.2021109952)]  
+\___\_  
+
 ### Structure studies  
 
 **Visualizing TERRA RNA G-quadruplex unfolding in FUS biomolecular condensates**  
@@ -275,6 +289,4 @@ Koziej, Glatt
 *Trends in Biochemical Sciences, November 2025.*  
 [[10.1016/j.tibs.2025.08.007](https://doi.org/10.1016/j.tibs.2025.08.007)]  
 \___\_  
-
-
 
