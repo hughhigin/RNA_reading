@@ -4,9 +4,14 @@ Papers within each category are listed in reverse chronoligcal order.
 
 ## Categories: 
 
+[WAXS Paper](#waxs-paper)  
+
 [Tong et. al. May 2025, JACS](#tong-jacs-2025)  
 
 [ssRNA structures](#ssrna-structures)  
+
+## WAXS Paper
+Key references for QH 2025 WAXS Paper (in progress)
 
 ## Tong JACS 2025
 
@@ -19,4 +24,3 @@ Jerelle A. Joseph, Aleks Reinhardt, Anne Aguirre, Pin Yu Chew, Kieran O. Russell
 ## ssRNA structures
 
 
-## Unsorted papers
