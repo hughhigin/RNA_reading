@@ -52,7 +52,7 @@ months = ['', 'January', 'February', 'March', 'April', 'May', 'June',
 section_num = 10 # Unsorted papers
 sub_num = 0 # Default subsection
 ris_dir = '' # Default: look in current directory
-readme = 'README.md' # readme of references
+outfile = 'fresh_finds.md' # readme of references
 ris_files = glob(ris_dir + '*.ris')
 ris_start = 6 # RIS colunm after label
 
@@ -104,7 +104,9 @@ for ris in ris_files:
     new_reflines.append('\\___\\_  \n')
     
     print('Added ' + ris)
+    os.rename(ris, 'ris/' + ris)
 
-with open(readme, 'a') as reffile:
+with open(outfile, 'a') as reffile:
     reffile.writelines(new_reflines)
+
 
