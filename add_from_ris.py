@@ -104,6 +104,7 @@ for ris in ris_files:
     new_reflines.append('\\___\\_  \n')
     
     print('Added ' + ris)
+    os.makedirs('ris', exist_ok=True)
     os.rename(ris, 'ris/' + ris)
 
 with open(outfile, 'a') as reffile:
