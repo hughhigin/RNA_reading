@@ -1,7 +1,8 @@
 This is an attempt to document the most relevant papers for research in the Pollack lab into RNA structure-function and RNA-protein interactions. Inspired by [this repository](https://github.com/yangkky/Machine-learning-for-proteins) 
 
+Papers within each category are listed in reverse chronological order. Categories subject to reorganization as the collection develops, and tags are included for easier searching. 
 
-Papers within each category are listed in reverse chronoligcal order. Categories subject to reorganization as the collection develops, and tags are included for easier searching. 
+The README.md file is for highlighting papers that seem the most interesting and relevant to our current research, and other markdown files are for archived references and more targeted reading lists.
 
 ## Categories:  
 
