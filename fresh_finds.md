@@ -139,3 +139,93 @@ Norrild, Johansson, O’Shea, Morth, Lindorff-Larsen, Winther
 \___\_  
 
 
+
+**Discovering Glycosylation-Dependent Protein Function by Thermal Proteome Profiling**  
+Hevler, Sojitra, Caval, Schoof, Mateus, Bertozzi  
+*, January 2025.*  
+[[10.64898/2025.12.06.692499](http://biorxiv.org/content/early/2025/12/07/2025.12.06.692499.abstract)]  
+\___\_  
+
+**Satellite megaconstellations will threaten space-based astronomy**  
+Borlaff, Marcum, Howell  
+*Nature, December 2025.*  
+[[10.1038/s41586-025-09759-5](https://doi.org/10.1038/s41586-025-09759-5)]  
+\___\_  
+
+**evo3D: a generalised framework for structure-informed evolutionary analysis, implemented in R**  
+Broyles, He  
+*, January 2025.*  
+[[10.64898/2025.12.12.694041](http://biorxiv.org/content/early/2025/12/14/2025.12.12.694041.abstract)]  
+\___\_  
+
+**Scikit-bio: a fundamental Python library for biological omic data analysis**  
+Aton, McDonald, Cañardo Alastuey, Azom, Batra, Bezshapkin, Bolyen, Cagle, Caporaso, Debelius, Gorlick, Hamsanipally, Hunger, Keluskar, Liao, Lu, Navas-Molina, Pitman, Rideout, Sazonov, Sathappan, Schwarzberg Lipson, Sfiligoi, Tapo, Vázquez-Baeza, Wu, Xu, Ye, Zhao, Knight, Morton, Zhu  
+*Nature Methods, December 2025.*  
+[[10.1038/s41592-025-02981-z](https://doi.org/10.1038/s41592-025-02981-z)]  
+\___\_  
+
+**DNA Wrapping by a tetrameric bacterial histone**  
+Hu, Schwab, Qiu, Zhang, Bär, Reichle, Panzera, Lupas, Hartmann, Dame, Alva, Hernandez Alvarez  
+*Nature Communications, December 2025.*  
+[[10.1038/s41467-025-67425-w](https://doi.org/10.1038/s41467-025-67425-w)]  
+\___\_  
+
+**Benchmarking datasets for machine learning in protein function prediction**  
+Jang, Qin, Wang, Kornmann  
+*, January 2025.*  
+[[10.64898/2025.12.17.694800](http://biorxiv.org/content/early/2025/12/19/2025.12.17.694800.abstract)]  
+\___\_  
+
+**Structural basis of undecaprenyl phosphate glycosylation leading to polymyxin resistance in Gram-negative bacteria**  
+Ashraf, Bunoro-Batista, Ansell, Punetha, Rosario-Garrido, Firlar, Kaelber, Stansfeld, Petrou  
+*Nature Communications, December 2025.*  
+[[10.1038/s41467-025-65968-6](https://doi.org/10.1038/s41467-025-65968-6)]  
+\___\_  
+
+**O-GlcNAcylation and an importin-β radial gradient keep the FG barrier liquid in live-cell nuclear pores**  
+Yu, Heidari, Palacio-Rodriguez, Ruan, Mingu, Hidayat, Bode, Sikora, Hummer, Lemke  
+*, January 2025.*  
+[[10.64898/2025.12.09.693204](http://biorxiv.org/content/early/2025/12/11/2025.12.09.693204.abstract)]  
+\___\_  
+
+**Atomic models of the Toxoplasma cell invasion machinery**  
+Zeng, Fu, Qian, Huang, Niu, Beatty, Brown, Sibley, Zhang  
+*Nature Structural & Molecular Biology, December 2025.*  
+[[10.1038/s41594-025-01728-w](https://doi.org/10.1038/s41594-025-01728-w)]  
+\___\_  
+
+**Sequence and structural determinants of efficacious &lt;em&gt;de novo&lt;/em&gt; chimeric antigen receptors**  
+Chow, Chu, Li, Nalbant, Dozic, Kida, Lareau  
+*, January 2025.*  
+[[10.64898/2025.12.12.694033](http://biorxiv.org/content/early/2025/12/13/2025.12.12.694033.abstract)]  
+\___\_  
+
+**Beyond RNA modification: a novel role for tRNA modifying enzyme in oxidative stress response and metabolism**  
+Fruchard, Sudol, Rouard, Treffkorn-Maurau, Hardy, Bos, Duchateau, Giai Gianetto, Matondo, Bonhomme, Thuillier, Marchand, Motorin, Bregeon, Mazel, Hamdane, Baharoglu  
+*Nucleic Acids Research, December 2025.*  
+[[10.1093/nar/gkaf1276](https://doi.org/10.1093/nar/gkaf1276)]  
+\___\_  
+
+**Liquid-liquid phase separation (LLPS) as a sensing and adaptation mechanism: An evidence-based hypothesis on AP2 transcription factors in the malaria parasite**  
+Iglesias, Avalos-Padilla, Bárcenas, Fernàndez-Busquets  
+*, January 2025.*  
+[[10.64898/2025.12.10.693351](http://biorxiv.org/content/early/2025/12/12/2025.12.10.693351.abstract)]  
+\___\_  
+
+**The Gene Ontology knowledgebase in 2026**  
+The Gene Ontology Consortium   
+*Nucleic Acids Research, December 2025.*  
+[[10.1093/nar/gkaf1292](https://doi.org/10.1093/nar/gkaf1292)]  
+\___\_  
+
+**AlphaFold predictions are valuable hypotheses and accelerate but do not replace experimental structure determination**  
+Terwilliger, Liebschner, Croll, Williams, McCoy, Poon, Afonine, Oeffner, Richardson, Read, Adams  
+*Nature Methods, January 2024.*  
+[[10.1038/s41592-023-02087-4](https://doi.org/10.1038/s41592-023-02087-4)]  
+\___\_  
+
+**LLM use in scholarly writing poses a provenance problem**  
+Earp, Yuan, Koplin, Porsdam Mann  
+*Nature Machine Intelligence, December 2025.*  
+[[10.1038/s42256-025-01159-8](https://doi.org/10.1038/s42256-025-01159-8)]  
+\___\_  
