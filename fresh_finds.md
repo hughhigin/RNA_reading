@@ -229,3 +229,39 @@ Earp, Yuan, Koplin, Porsdam Mann
 *Nature Machine Intelligence, December 2025.*  
 [[10.1038/s42256-025-01159-8](https://doi.org/10.1038/s42256-025-01159-8)]  
 \___\_  
+
+**Cold and lithium delay forgetting of olfactory memories in Caenorhabditis elegans**  
+Landschaft-Berliner, Goldstein, Teichman, Anava, Gingold, Salzberg, Rieger, Levy, Pechuk, Setty, Agarwal, Sagi, Cohen, Nikelshparg, Ben-Zvi, Miranda-Vizuete, Zaidel-Bar, Oren-Suissa, Rechavi  
+*Nature Neuroscience, December 2025.*  
+[[10.1038/s41593-025-02143-6](https://doi.org/10.1038/s41593-025-02143-6)]  
+\___\_  
+
+**IDR searcher: a search engine solution for public image resource**  
+Mohamed, Moore, Lindner, Moore, Swedlow, Wong, Burel  
+*, January 2025.*  
+[[10.64898/2025.12.16.694566](http://biorxiv.org/content/early/2025/12/18/2025.12.16.694566.abstract)]  
+\___\_  
+
+****  
+  
+*,  .*  
+[[]()]  
+\___\_  
+
+**Hypoxia-induced ribosomal RNA modifications in the peptidyl-transferase center contribute to anaerobic growth of bacteria**  
+Ishiguro, Midorikawa, Shigi, Kimura, Liiv, Yokoyama, Ito, Shirouzu, Remme, Miyauchi, Suzuki  
+*Molecular Cell,  .*  
+[[10.1016/j.molcel.2025.11.018](https://doi.org/10.1016/j.molcel.2025.11.018)]  
+\___\_  
+
+**Chromatin buffers torsional stress during transcription**  
+Qian, Lubkowska, Zhang, Tan, Hong, Jia, Fulbright, Inman, Kay, Jeong, Hauk, Gotte, Berger, Kashlev, Wang  
+*Science,  .*  
+[[10.1126/science.adv0134](https://doi.org/10.1126/science.adv0134)]  
+\___\_  
+
+**Single-particle tracking reveals heterogeneous PIEZO1 diffusion**  
+Ly, Freites, Bertaccini, Evans, Dickinson, Tobias, Pathak  
+*Biophysical Journal, December 2025.*  
+[[10.1016/j.bpj.2025.01.010](https://doi.org/10.1016/j.bpj.2025.01.010)]  
+\___\_  
