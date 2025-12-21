@@ -78,12 +78,6 @@ Rathinavelan, Sundaresan
 
 ### Experimental Biology
 
-**A multi-step nucleation process determines the kinetics of prion-like domain phase separation**  
-Martin, Harmon, Hopkins, Chakravarthy, Incicco, Schuck, Soranno, Mittag  
-*Nature Communications, July 2021.*  
-[[10.1038/s41467-021-24727-z](https://doi.org/10.1038/s41467-021-24727-z)]  
-\___\_  
-
 **Organelles harbour pH gradients**  
 Lee, Chakraborty, Kim, Ali, Mitra, Zajac, Brown, Pincus, Krishnan  
 *, January 2025.*  
@@ -139,7 +133,6 @@ Norrild, Johansson, O’Shea, Morth, Lindorff-Larsen, Winther
 \___\_  
 
 
-
 **Discovering Glycosylation-Dependent Protein Function by Thermal Proteome Profiling**  
 Hevler, Sojitra, Caval, Schoof, Mateus, Bertozzi  
 *, January 2025.*  
@@ -162,12 +155,6 @@ Broyles, He
 Aton, McDonald, Cañardo Alastuey, Azom, Batra, Bezshapkin, Bolyen, Cagle, Caporaso, Debelius, Gorlick, Hamsanipally, Hunger, Keluskar, Liao, Lu, Navas-Molina, Pitman, Rideout, Sazonov, Sathappan, Schwarzberg Lipson, Sfiligoi, Tapo, Vázquez-Baeza, Wu, Xu, Ye, Zhao, Knight, Morton, Zhu  
 *Nature Methods, December 2025.*  
 [[10.1038/s41592-025-02981-z](https://doi.org/10.1038/s41592-025-02981-z)]  
-\___\_  
-
-**DNA Wrapping by a tetrameric bacterial histone**  
-Hu, Schwab, Qiu, Zhang, Bär, Reichle, Panzera, Lupas, Hartmann, Dame, Alva, Hernandez Alvarez  
-*Nature Communications, December 2025.*  
-[[10.1038/s41467-025-67425-w](https://doi.org/10.1038/s41467-025-67425-w)]  
 \___\_  
 
 **Benchmarking datasets for machine learning in protein function prediction**  
@@ -206,12 +193,6 @@ Fruchard, Sudol, Rouard, Treffkorn-Maurau, Hardy, Bos, Duchateau, Giai Gianetto
 [[10.1093/nar/gkaf1276](https://doi.org/10.1093/nar/gkaf1276)]  
 \___\_  
 
-**Liquid-liquid phase separation (LLPS) as a sensing and adaptation mechanism: An evidence-based hypothesis on AP2 transcription factors in the malaria parasite**  
-Iglesias, Avalos-Padilla, Bárcenas, Fernàndez-Busquets  
-*, January 2025.*  
-[[10.64898/2025.12.10.693351](http://biorxiv.org/content/early/2025/12/12/2025.12.10.693351.abstract)]  
-\___\_  
-
 **The Gene Ontology knowledgebase in 2026**  
 The Gene Ontology Consortium   
 *Nucleic Acids Research, December 2025.*  
@@ -242,18 +223,6 @@ Mohamed, Moore, Lindner, Moore, Swedlow, Wong, Burel
 [[10.64898/2025.12.16.694566](http://biorxiv.org/content/early/2025/12/18/2025.12.16.694566.abstract)]  
 \___\_  
 
-****  
-  
-*,  .*  
-[[]()]  
-\___\_  
-
-**Hypoxia-induced ribosomal RNA modifications in the peptidyl-transferase center contribute to anaerobic growth of bacteria**  
-Ishiguro, Midorikawa, Shigi, Kimura, Liiv, Yokoyama, Ito, Shirouzu, Remme, Miyauchi, Suzuki  
-*Molecular Cell,  .*  
-[[10.1016/j.molcel.2025.11.018](https://doi.org/10.1016/j.molcel.2025.11.018)]  
-\___\_  
-
 **Chromatin buffers torsional stress during transcription**  
 Qian, Lubkowska, Zhang, Tan, Hong, Jia, Fulbright, Inman, Kay, Jeong, Hauk, Gotte, Berger, Kashlev, Wang  
 *Science,  .*  
@@ -265,3 +234,40 @@ Ly, Freites, Bertaccini, Evans, Dickinson, Tobias, Pathak
 *Biophysical Journal, December 2025.*  
 [[10.1016/j.bpj.2025.01.010](https://doi.org/10.1016/j.bpj.2025.01.010)]  
 \___\_  
+
+**BioChemAIgent: An AI-driven Protein Modeling and Docking Framework for Structure-Based Drug Discovery**  
+Yousefi, Laubach, Heins, Testa, Gersting, Bonn  
+*, January 2025.*  
+[[10.64898/2025.12.17.694892](http://biorxiv.org/content/early/2025/12/19/2025.12.17.694892.abstract)]  
+\___\_  
+
+**AlphaFold3 and Intrinsically Disordered Proteins: Reliable Monomer Prediction, Unpredictable Multimer Performance**  
+Dao, Ghent, Uversky, Rahman  
+*, January 2025.*  
+[[10.64898/2025.12.05.691730](http://biorxiv.org/content/early/2025/12/10/2025.12.05.691730.abstract)]  
+\___\_  
+
+**Mechanism of cotranslational modification of histones H2A and H4 by MetAP1 and NatD**  
+Yudin, Jaskolowski, Fan, Burg, Chandrasekar, Lentzsch, Scaiola, Bothe, Deuerling, Gamerdinger, Shan, Ban  
+*Science Advances,  .*  
+[[10.1126/sciadv.aeb1017](https://doi.org/10.1126/sciadv.aeb1017)]  
+\___\_  
+
+**Democratizing protein language model training, sharing and collaboration**  
+Su, Li, Tao, Han, He, Dai, Yuan, Gao, Si, Zhang, Zhou, Shan, Zhou, Chang, Jiang, Ma, Gitter, Mirdita, Yang, Notin, Marks, Chatterjee, Singh, Romero, Heinzinger, Liu, Zheng, Li, Zeng, Shen, Chai, Ju, Ferruz, Glasgow, Kim, Snow, Ntranos, Yang, Hong, Gao, Si, Bronstein, Chang, Yuan, Su, Li, Tao, Han, He, Dai, Zhang, Zhou, Shan, Zhou, Jiang, Gao, Zhang, Fan, Tao, Cheng, Zheng, Chen, Long, Kong, Pu, Guan, Zhang, Li, Steinegger, Ovchinnikov, Yuan, The OPMC  
+*Nature Biotechnology, October 2025.*  
+[[10.1038/s41587-025-02859-7](https://doi.org/10.1038/s41587-025-02859-7)]  
+\___\_  
+
+**PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders**  
+Team, Ren, Sun, Guan, Liu, Gong, Wang, Wang, Cai, Ma, Zhang, Liu, Zhang, Chen, Xiao  
+*, January 2025.*  
+[[10.1101/2025.08.15.670450](http://biorxiv.org/content/early/2025/12/17/2025.08.15.670450.abstract)]  
+\___\_  
+
+**Accelign: a GPU-based Library for Accelerating Pairwise Sequence Alignment**  
+Kallenborn, Dabbaghie, Steinegger, Schmidt  
+*, January 2025.*  
+[[10.64898/2025.12.17.694868](http://biorxiv.org/content/early/2025/12/19/2025.12.17.694868.abstract)]  
+\___\_  
+

@@ -9,6 +9,12 @@
 
 ## Reviews  
 
+**Current practices in the study of biomolecular condensates: a community comment**  
+Alberti, Arosio, Best, Boeynaems, Cai, Collepardo-Guevara, Dignon, Dimova, Elbaum-Garfinkle, Fawzi, Fuxreiter, Gladfelter, Honigmann, Jain, Joseph, Knowles, Lasker, Lemke, Lindorff-Larsen, Lipowsky, Mittal, Mukhopadhyay, Myong, Pappu, Rippe, Shelkovnikova, Vecchiarelli, Wegmann, Zhang, Zhang, Zubieta, Zweckstetter, Dormann, Mittag  
+*Nature Communications, August 2025.*  
+[[10.1038/s41467-025-62055-8](https://doi.org/10.1038/s41467-025-62055-8)]  
+\___\_  
+
 **Structured protein domains enter the spotlight: modulators of biomolecular condensate form and function**  
 Nathaniel Hess and Jerelle Joseph  
 *Trends in Biochemical Sciences, May 2025.*  
@@ -63,6 +69,18 @@ Kathleen A. Burke, Abigail M. Janke, Christy L. Rhine, Nicolas L. Fawzi
 
 ## Cellular studies 
 
+**A multi-step nucleation process determines the kinetics of prion-like domain phase separation**  
+Martin, Harmon, Hopkins, Chakravarthy, Incicco, Schuck, Soranno, Mittag  
+*Nature Communications, July 2021.*  
+[[10.1038/s41467-021-24727-z](https://doi.org/10.1038/s41467-021-24727-z)]  
+\___\_  
+
+**Liquid-liquid phase separation (LLPS) as a sensing and adaptation mechanism: An evidence-based hypothesis on AP2 transcription factors in the malaria parasite**  
+Iglesias, Avalos-Padilla, Bárcenas, Fernàndez-Busquets  
+*, January 2025.*  
+[[10.64898/2025.12.10.693351](http://biorxiv.org/content/early/2025/12/12/2025.12.10.693351.abstract)]  
+\___\_  
+
 **Selective RNA sequestration in biomolecular condensates directs cell fate transitions**   
 Patrizia Pessina, Mika Nevo, Junchao Shi, Srikanth Kodali, Eduard Casas, Yingzhi Cui, Alicia L. Richards, Emily J. Park, Xi Chen, Florencia Levin-Ferreyra, Alejandra Rivera Tostado, Erica Stevenson, Nevan J. Krogan, Danielle L. Swaney, Qilong Ying, Qi Chen, Justin Brumbaugh & Bruno Di Stefano  
 *Nature Biotechnology, October 2025.*    
@@ -82,6 +100,18 @@ Kathleen A. Burke, Abigail M. Janke, Christy L. Rhine, Nicolas L. Fawzi
 \___\_  
 
 ## Simulation
+
+**Modeling biomolecular condensates across scales: atomistic, coarse-grained, and data-driven approaches**  
+Maristany, Emelianova, Chew, Aguirre, Collepardo-Guevara, Joseph  
+*Advances in Physics: X, December 2025.*  
+[[10.1080/23746149.2025.2592547](https://doi.org/10.1080/23746149.2025.2592547)]  
+\___\_  
+
+**Theory of Condensate Size Control by Molecular Charge Asymmetry**  
+Luo, Hess, Aierken, Qiang, Joseph, Zwicker  
+*ACS Macro Lett., October 2025.*  
+[[10.1021/acsmacrolett.5c00342](https://doi.org/10.1021/acsmacrolett.5c00342)]  
+\___\_  
 
 **Driving forces of RNA condensation revealed through coarse-grained modeling with explicit Mg2+**  
 Shanlong Li and Jianhan Chen  

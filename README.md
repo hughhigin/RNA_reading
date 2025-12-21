@@ -20,6 +20,8 @@ The README.md file is for highlighting papers that seem the most interesting and
 
 [RNA Therapeutics](#rna-therapeutics)
 
+[Histones](#histones)
+
 [Structural methods](#structural-methods)  
   - [SAXS and WAXS](#saxs-and-waxs)
   - [Fluorescence studies](#fluorescence_studies)
@@ -46,6 +48,12 @@ Author list
 
 ### Reviews  
 
+**Current practices in the study of biomolecular condensates: a community comment**  
+Alberti, Arosio, Best, Boeynaems, Cai, Collepardo-Guevara, Dignon, Dimova, Elbaum-Garfinkle, Fawzi, Fuxreiter, Gladfelter, Honigmann, Jain, Joseph, Knowles, Lasker, Lemke, Lindorff-Larsen, Lipowsky, Mittal, Mukhopadhyay, Myong, Pappu, Rippe, Shelkovnikova, Vecchiarelli, Wegmann, Zhang, Zhang, Zubieta, Zweckstetter, Dormann, Mittag  
+*Nature Communications, August 2025.*  
+[[10.1038/s41467-025-62055-8](https://doi.org/10.1038/s41467-025-62055-8)]  
+\___\_  
+
 **Structured protein domains enter the spotlight: modulators of biomolecular condensate form and function**  
 Nathaniel Hess and Jerelle Joseph  
 *Trends in Biochemical Sciences, May 2025.*  
@@ -70,14 +78,6 @@ Yongdae Shin and Clifford P. Brangwynne
 [[10.1126/science.aaf4382](https://www.science.org/doi/full/10.1126/science.aaf4382)]  
 \___\_  
 
-### LLPS skepticism
-
-**A validation strategy to assess the role of phase separation as a determinant of macromolecular localization**  
-Hedtfeld, Dammers, Koerner, Musacchio  
-*Molecular Cell, May 2024.*  
-[[https://doi.org/10.1016/j.molcel.2024.03.022](https://www.sciencedirect.com/science/article/pii/S1097276524002673)]  
-\___\_  
-
 **On the role of phase separation in the biogenesis of membraneless compartments**  
 Musacchio  
 *The EMBO Journal, February 2022.*  
@@ -99,6 +99,12 @@ Kathleen A. Burke, Abigail M. Janke, Christy L. Rhine, Nicolas L. Fawzi
 \___\_  
 
 ### Cellular studies 
+
+**A validation strategy to assess the role of phase separation as a determinant of macromolecular localization**  
+Hedtfeld, Dammers, Koerner, Musacchio  
+*Molecular Cell, May 2024.*  
+[[https://doi.org/10.1016/j.molcel.2024.03.022](https://www.sciencedirect.com/science/article/pii/S1097276524002673)]  
+\___\_  
 
 **Selective RNA sequestration in biomolecular condensates directs cell fate transitions**   
 Patrizia Pessina, Mika Nevo, Junchao Shi, Srikanth Kodali, Eduard Casas, Yingzhi Cui, Alicia L. Richards, Emily J. Park, Xi Chen, Florencia Levin-Ferreyra, Alejandra Rivera Tostado, Erica Stevenson, Nevan J. Krogan, Danielle L. Swaney, Qilong Ying, Qi Chen, Justin Brumbaugh & Bruno Di Stefano  
@@ -163,6 +169,12 @@ Ansari, Liu, Hédin, Hénin, Ponder, Ren, Piquemal, Lagardère, El Hage
 
 ## RNA regulation
 
+**Hypoxia-induced ribosomal RNA modifications in the peptidyl-transferase center contribute to anaerobic growth of bacteria**  
+Ishiguro, Midorikawa, Shigi, Kimura, Liiv, Yokoyama, Ito, Shirouzu, Remme, Miyauchi, Suzuki  
+*Molecular Cell,  .*  
+[[10.1016/j.molcel.2025.11.018](https://doi.org/10.1016/j.molcel.2025.11.018)]  
+\___\_  
+
 **Control of gene output by intron RNA structure**  
 Leonard Schärfen, Pernille Bech, Paulina Podszywałow-Bartnicka, Karla M. Neugebauer
 *Preprint, November 2025.*  
@@ -213,7 +225,22 @@ Chheda, Pradeepan, Esposito, Strezsak, Fernandez-Delgado, Kranz
 [[https://doi.org/10.1016/j.xphs.2023.11.023](https://www.sciencedirect.com/science/article/pii/S0022354923004987)]  
 \___\_  
 
+## Histones
+
+**DNA Wrapping by a tetrameric bacterial histone**  
+Hu, Schwab, Qiu, Zhang, Bär, Reichle, Panzera, Lupas, Hartmann, Dame, Alva, Hernandez Alvarez  
+*Nature Communications, December 2025.*  
+[[10.1038/s41467-025-67425-w](https://doi.org/10.1038/s41467-025-67425-w)]  
+\___\_  
+
+
 ## Structural methods 
+
+**Structure and evolution-guided design of minimal RNA-guided nucleases**  
+Skopintsev, Esain-Garcia, DeTurk, Yoon, Zhou, Weiss, Kamalu, Chamraj, Loi, Langeberg, Boger, Nisonoff, Karp, Chen, Shi, Vohra, Banfield, Cate, Jacobsen, Doudna  
+*, January 2025.*  
+[[10.64898/2025.12.08.692503](http://biorxiv.org/content/early/2025/12/08/2025.12.08.692503.abstract)]  
+\___\_  
 
 ### SAXS, WAXS
 
