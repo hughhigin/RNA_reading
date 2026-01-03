@@ -4,6 +4,7 @@
 # import statements
 import os
 from glob import glob
+import sys
 
 # Filepath organization: default adds to unsorted papers
 # Current list of categories (IN PROGRESS):
@@ -52,9 +53,13 @@ months = ['', 'January', 'February', 'March', 'April', 'May', 'June',
 section_num = 10 # Unsorted papers
 sub_num = 0 # Default subsection
 ris_dir = '' # Default: look in current directory
-outfile = 'fresh_finds.md' # readme of references
 ris_files = glob(ris_dir + '*.ris')
 ris_start = 6 # RIS colunm after label
+
+if len(sys.argv) < 2:
+    outfile = 'fresh_finds.md' # readme of references
+else:
+    outfile = sys.argv[1]
 
 # Loop through and add one by one
 new_reflines = []

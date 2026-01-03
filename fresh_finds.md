@@ -271,3 +271,27 @@ Kallenborn, Dabbaghie, Steinegger, Schmidt
 [[10.64898/2025.12.17.694868](http://biorxiv.org/content/early/2025/12/19/2025.12.17.694868.abstract)]  
 \___\_  
 
+
+**Large scale prospective evaluation of co-folding across 557 Mac1-ligand complexes and three virtual screens**  
+Kim, Correy, Hall, Rachman, Mailhot, Togo, Gonciarz, Jaishankar, Neitz, Hantz, Doruk, Stevens, Diolaiti, Reid, Gopalkrishnan, Krogan, Renslo, Ashworth, Shoichet, Fraser  
+*, January 2025.*  
+[[10.64898/2025.12.25.696505](http://biorxiv.org/content/early/2025/12/28/2025.12.25.696505.abstract)]  
+\___\_  
+
+**Cell-surface RNA forms ternary complex with RNA-binding proteins and heparan sulfate to recruit immune receptors**  
+Li, Joshi, Yin, Wijdeven, Koç, Zijlmans, Santos-Barriopedro, Mei, Wu, Shademan, Zawisza, Bos, Chopra, Tanenbaum, Sharp, Vermeulen, Raz, Joo  
+*Molecular Cell, December 2025.*  
+[[10.1016/j.molcel.2025.11.020](https://doi.org/10.1016/j.molcel.2025.11.020)]  
+\___\_  
+
+**Template-based RNA structure prediction advanced through a blind code competition**  
+Lee, He, Oda, Rao, Kim, Kim, Kim, Heng, Kowerko, Li, Nguyen, Sampathkumar, Enrique Gomez, Chen, Yoshizawa, Kuraishi, Ogawa, Zou, Paullier, Zhao, Chen, Hsu, Hirano, Gezelle, Haack, Hong, Jadhav, Koirala, Kretsch, Lewicka, Li, Marcia, Piccirilli, Rudolfs, Srivastava, Steckelberg, Su, Toor, Wang, Yang, Zhang, Zou, Baker, Chen, Chiu, Demkin, Favor, Hummer, Joshi, Kryshtafovych, Kucukbenli, Miao, Moult, Munley, Reade, Viel, Westhof, Zhang, Das  
+*, January 2025.*  
+[[10.64898/2025.12.30.696949](http://biorxiv.org/content/early/2025/12/30/2025.12.30.696949.abstract)]  
+\___\_  
+
+**Predicting small molecule–RNA interactions without RNA tertiary structures**  
+Fei, Wang, Zhang, Shan, Cai, Ma, Wang, Zhang  
+*Nature Biotechnology, January 2026.*  
+[[10.1038/s41587-025-02942-z](https://doi.org/10.1038/s41587-025-02942-z)]  
+\___\_  
