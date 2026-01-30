@@ -3,7 +3,7 @@
 
 [Reviews](#reviews)  
 [LLPS alternatives](#llps-alternatives)  
-[Structural characterization](structural-characterization)   
+[Structural studies](structural-studies)   
 [Cellular studies](#cellular-studies)  
 [Simulation](#simulation)  
 
