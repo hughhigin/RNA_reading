@@ -3,7 +3,7 @@
 
 [Reviews](#reviews)  
 [LLPS alternatives](#llps-alternatives)  
-[Structural studies](structure-studies)   
+[Structural studies](#structure-studies)   
 [Cellular studies](#cellular-studies)  
 [Simulation](#simulation)  
 
