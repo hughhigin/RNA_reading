@@ -92,6 +92,11 @@ Tongyin Zheng, Nicolas L Fawzi
 [[10.1101/2025.10.29.685336](https://doi.org/10.1101/2025.10.29.685336)]  
 \__fus_nmr_\_  
 
+**Integrating SHAPE Probing with Direct RNA Nanopore Sequencing Reveals Dynamic RNA Structural Landscapes**  
+White Bear, De Bisschop, Lécuyer, Waldispühl  
+*, January 2025.*  
+[[10.64898/2025.12.14.694260](http://biorxiv.org/content/early/2025/12/16/2025.12.14.694260.abstract)]  
+
 **Residue-by-Residue View of In-Vitro FUS Granules that Bind the C-Terminal Domain of RNA Polymerase II**  
 Kathleen A. Burke, Abigail M. Janke, Christy L. Rhine, Nicolas L. Fawzi  
 *Molecular Cell, October 2015.*  
