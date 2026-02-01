@@ -295,3 +295,27 @@ Fei, Wang, Zhang, Shan, Cai, Ma, Wang, Zhang
 *Nature Biotechnology, January 2026.*  
 [[10.1038/s41587-025-02942-z](https://doi.org/10.1038/s41587-025-02942-z)]  
 \___\_  
+
+**Generalized design of sequence–ensemble–function relationships for intrinsically disordered proteins**  
+Krueger, Brenner, Shrinivas  
+*Nature Computational Science, October 2025.*  
+[[10.1038/s43588-025-00881-y](https://doi.org/10.1038/s43588-025-00881-y)]  
+\___\_  
+
+**ChiraKit: an online tool for the analysis of circular dichroism spectroscopy data**  
+Burastero, Jones, Defelipe, Zavrtanik, Hadži, Hoffmann, Garcia-Alai  
+*Nucleic Acids Research, July 2025.*  
+[[10.1093/nar/gkaf350](https://doi.org/10.1093/nar/gkaf350)]  
+\___\_  
+
+**Visualizing a viral genome with contrast variation small angle X-ray scattering**  
+San Emeterio, Pollack  
+*Journal of Biological Chemistry, November 2020.*  
+[[https://doi.org/10.1074/jbc.RA120.013961](https://www.sciencedirect.com/science/article/pii/S0021925817504214)]  
+\___\_  
+
+**CAML: Commutative Algebra Machine Learning─A Case Study on Protein–Ligand Binding Affinity Prediction**  
+Feng, Suwayyid, Zia, Wee, Hozumi, Chen, Wei  
+*J. Chem. Inf. Model., July 2025.*  
+[[10.1021/acs.jcim.5c00940](https://doi.org/10.1021/acs.jcim.5c00940)]  
+\___\_  
