@@ -143,11 +143,6 @@ Armentia, López, De Sancho
 [[10.1101/2025.10.01.679751](http://biorxiv.org/content/early/2025/10/02/2025.10.01.679751.abstract)]  
 \___\_  
 
-**Physics-driven coarse-grained model for biomolecular phase separation with near-quantitative accuracy**  
-Jerelle A. Joseph, Aleks Reinhardt, Anne Aguirre, Pin Yu Chew, Kieran O. Russell, Jorge R. Espinosa, Adiran Garaizar & Rosana Collepardo-Guevara  
-*Nature Computer Science, November 2021.*    
-[[10.1038/s43588-021-00155-3](https://doi.org/10.1038/s43588-021-00155-3)]  
-\__mpipi_jacsRefMay2025_\_  
 
 ## RNA structural ensembles
 
@@ -241,31 +236,40 @@ Hu, Schwab, Qiu, Zhang, Bär, Reichle, Panzera, Lupas, Hartmann, Dame, Alva, Her
 
 ## Structural methods 
 
+**Cell-surface RNA forms ternary complex with RNA-binding proteins and heparan sulfate to recruit immune receptors**  
+Li, Joshi, Yin, Wijdeven, Koç, Zijlmans, Santos-Barriopedro, Mei, Wu, Shademan, Zawisza, Bos, Chopra, Tanenbaum, Sharp, Vermeulen, Raz, Joo  
+*Molecular Cell, December 2025.*  
+[[10.1016/j.molcel.2025.11.020](https://doi.org/10.1016/j.molcel.2025.11.020)]  
+\___\_  
+
+**Integrating SHAPE Probing with Direct RNA Nanopore Sequencing Reveals Dynamic RNA Structural Landscapes**  
+White Bear, De Bisschop, Lécuyer, Waldispühl  
+*, January 2025.*  
+[[10.64898/2025.12.14.694260](http://biorxiv.org/content/early/2025/12/16/2025.12.14.694260.abstract)]  
+\___\_  
+
 **Structure and evolution-guided design of minimal RNA-guided nucleases**  
 Skopintsev, Esain-Garcia, DeTurk, Yoon, Zhou, Weiss, Kamalu, Chamraj, Loi, Langeberg, Boger, Nisonoff, Karp, Chen, Shi, Vohra, Banfield, Cate, Jacobsen, Doudna  
 *, January 2025.*  
 [[10.64898/2025.12.08.692503](http://biorxiv.org/content/early/2025/12/08/2025.12.08.692503.abstract)]  
 \___\_  
 
-### SAXS, WAXS
-
-**Title**  
-Author list  
-*Journal, Month Year.*  
-[[doi](link)]  
-\___\_
-
-### Fluorescence studies
-
-**Title**  
-Author list  
-*Journal, Month Year.*  
-[[doi](link)]  
-\___\_
 
 ## RNA Bioinformatics
 
 ### Structure prediction
+
+**Predicting small molecule–RNA interactions without RNA tertiary structures**  
+Fei, Wang, Zhang, Shan, Cai, Ma, Wang, Zhang  
+*Nature Biotechnology, January 2026.*  
+[[10.1038/s41587-025-02942-z](https://doi.org/10.1038/s41587-025-02942-z)]  
+\___\_  
+
+**Template-based RNA structure prediction advanced through a blind code competition**  
+Lee, He, Oda, Rao, Kim, Kim, Kim, Heng, Kowerko, Li, Nguyen, Sampathkumar, Enrique Gomez, Chen, Yoshizawa, Kuraishi, Ogawa, Zou, Paullier, Zhao, Chen, Hsu, Hirano, Gezelle, Haack, Hong, Jadhav, Koirala, Kretsch, Lewicka, Li, Marcia, Piccirilli, Rudolfs, Srivastava, Steckelberg, Su, Toor, Wang, Yang, Zhang, Zou, Baker, Chen, Chiu, Demkin, Favor, Hummer, Joshi, Kryshtafovych, Kucukbenli, Miao, Moult, Munley, Reade, Viel, Westhof, Zhang, Das  
+*, January 2025.*  
+[[10.64898/2025.12.30.696949](http://biorxiv.org/content/early/2025/12/30/2025.12.30.696949.abstract)]  
+\___\_  
 
 **MetaFold-RNA: Accurate prediction of RNA secondary structure using a meta-learning-guided deep network**  
 Wang, Zhang, Li, Wang, Xue  
@@ -295,11 +299,6 @@ Ksenia Kuznetsova, Maxim Scheremetjew, Jialin Yin, HongKee Moon, Diego A Vargas,
 
 ## Broad bio computation  
 
-**Title**  
-Author list  
-*Journal, Month Year.*  
-[[10.1038/s41589-021-00752-3](https://doi.org/10.1038/s41589-021-00752-3)]  
-\___\_
 
 ## Protein structure function
 
