@@ -183,3 +183,183 @@ Krueger, Brenner, Shrinivas
 
 
 
+
+**Visualizing Disordered Single-Stranded RNA: Connecting Sequence, Structure, and Electrostatics**  
+Plumridge, Andresen, Pollack  
+*J. Am. Chem. Soc., January 2020.*  
+[[10.1021/jacs.9b04461](https://doi.org/10.1021/jacs.9b04461)]  
+\___\_  
+
+**Biomolecular condensate architecture of an autophagic cargo at molecular resolution in situ**  
+Boyle, Cruz-León, Lizarrondo, Brenner, Mancilla, Stuke, Jimenez-Niebla, Milles, Welsch, Hunte, Kraft, Hummer, Wilfling  
+*, January 2026.*  
+[[10.64898/2026.01.07.698105](http://biorxiv.org/content/early/2026/01/08/2026.01.07.698105.abstract)]  
+\___\_  
+
+**DynaPIN: A Tool for Characterizing Dynamic Protein Interfaces**  
+Barlas, Özsan, Prévost, Sacquin-Mora, Karaca  
+*, January 2026.*  
+[[10.64898/2026.01.28.702288](http://biorxiv.org/content/early/2026/01/31/2026.01.28.702288.abstract)]  
+\___\_  
+
+****  
+  
+*,  .*  
+[[]()]  
+\___\_  
+
+**mRNAfold: Co-optimization of Global Stability, Local Structure, and Codon Choice via Suboptimal Folding**  
+Ward, Richardson, Lin, Stamm, Wright, Kim, Bicknell, Ahmed, Jones, Davis, Metkar  
+*, January 2026.*  
+[[10.64898/2026.01.23.701221](http://biorxiv.org/content/early/2026/01/23/2026.01.23.701221.abstract)]  
+\___\_  
+
+**Regulatory hotspot on the influenza A virus polymerase revealed through the structure of the NEP-polymerase complex**  
+Rep, Wang, Chen, Carrique, Sharps, Grimes, Fodor  
+*Science Advances,  .*  
+[[10.1126/sciadv.aeb4073](https://doi.org/10.1126/sciadv.aeb4073)]  
+\___\_  
+
+**TMEM63 proteins act as mechanically activated cholesterol modulated lipid scramblases contributing to membrane mechano-resilience**  
+Lin, Zhou, Han, Cheng, Wang, Ju, Zhang, Cox, Corry  
+*Nature Communications, January 2026.*  
+[[10.1038/s41467-026-68919-x](https://doi.org/10.1038/s41467-026-68919-x)]  
+\___\_  
+
+**A Systematic Evaluation of Protein Phase Separation Predictors Across Diverse Protein Landscapes**  
+Gilroy, Barr  
+*, January 2026.*  
+[[10.64898/2026.01.20.700394](http://biorxiv.org/content/early/2026/01/22/2026.01.20.700394.abstract)]  
+\___\_  
+
+**Learning Dynamic Protein Representations at Scale with Distograms**  
+Portal, Karroucha, Mallet, Bonomi  
+*, January 2026.*  
+[[10.64898/2026.01.29.702509](http://biorxiv.org/content/early/2026/02/02/2026.01.29.702509.abstract)]  
+\___\_  
+
+**RNA-binding proteins and ribonucleoproteins as determinants of immunity**  
+Turner, Petkau  
+*Nature Reviews Immunology, January 2026.*  
+[[10.1038/s41577-025-01254-2](https://doi.org/10.1038/s41577-025-01254-2)]  
+\___\_  
+
+**Why did only one genus of insects, Halobates, take to the high seas?**  
+  
+*, April 2022.*  
+[[](https://doi.org/10.1371/journal.pbio.3001570)]  
+\___\_  
+
+**Population ecology and biogeochemical implications of ssDNA and dsDNA viruses along a permafrost thaw gradient**  
+Trubl, Roux, Borton, Varsani, Li, Sun, Jang, Woodcroft, Tyson, Wrighton, Saleska, Eloe-Fadrosh, Sullivan, Rich  
+*Nature Communications, December 2025.*  
+[[10.1038/s41467-025-67057-0](https://doi.org/10.1038/s41467-025-67057-0)]  
+\___\_  
+
+**β-Hairpin Antimicrobial Peptides: Class Diversity and Sequence Analysis**  
+Ramtel, Gu, Abdulkareem, Randall  
+*ACS Infect. Dis., February 2026.*  
+[[10.1021/acsinfecdis.5c01055](https://doi.org/10.1021/acsinfecdis.5c01055)]  
+\___\_  
+
+**Spatial barcoding reveals reaction radii and contact-dependent mechanism of proximity labeling**  
+Yang, Zhang, Fang, Zhang, Du, Shen, Zhang, Zou, Chen  
+*Nature Chemical Biology, December 2025.*  
+[[10.1038/s41589-025-02086-w](https://doi.org/10.1038/s41589-025-02086-w)]  
+\___\_  
+
+**Multiple protein structure alignment at scale with FoldMason**  
+Gilchrist, Mirdita, Steinegger  
+*Science, January 2026.*  
+[[10.1126/science.ads6733](https://doi.org/10.1126/science.ads6733)]  
+\___\_  
+
+****  
+  
+*,  .*  
+[[]()]  
+\___\_  
+
+****  
+  
+*,  .*  
+[[]()]  
+\___\_  
+
+**The DinG exonuclease acts as a primary quality controller to remove unprocessed ribosomal RNAs**  
+Vaitkevičius, Johansson  
+*Nucleic Acids Research, January 2026.*  
+[[10.1093/nar/gkaf1446](https://doi.org/10.1093/nar/gkaf1446)]  
+\___\_  
+
+**Beyond Lipschitz: Ranking Binding Affinity in Hyperbolic Space**  
+Wu, Hong, Zhu, Gao, Ma, Lan  
+*, January 2026.*  
+[[10.64898/2026.02.01.703164](http://biorxiv.org/content/early/2026/02/03/2026.02.01.703164.abstract)]  
+\___\_  
+
+**ESMDisPred: A Structure-Aware CNN-Transformer Architecture for Intrinsically Disordered Protein Prediction**  
+Kabir, Dey, Nafees, Hoque  
+*, January 2026.*  
+[[10.64898/2026.01.22.701204](http://biorxiv.org/content/early/2026/01/24/2026.01.22.701204.abstract)]  
+\___\_  
+
+**The glycan shield of alphaherpesvirus glycoprotein B modulates host co-receptor binding**  
+Krepel, Ianiski, Janssen, Snijder  
+*, January 2026.*  
+[[10.64898/2026.02.03.703472](http://biorxiv.org/content/early/2026/02/03/2026.02.03.703472.abstract)]  
+\___\_  
+
+**Epitranscriptomic control of stress adaptations in Escherichia coli**  
+Riquelme-Barrios, Cusack, Rivera-Montero, Vásquez-Camus, Burdack, Brameyer, Berg, Yeşiltaç-Tosun, Kaiser, Giehr, Jung  
+*Nucleic Acids Research, February 2026.*  
+[[10.1093/nar/gkag042](https://doi.org/10.1093/nar/gkag042)]  
+\___\_  
+
+**Two tiers of piRNA clusters balance diversification of piRNAs with limitation of off-target effects**  
+Poulet, Witmer, Li, Cathelin, van Wolfswinkel  
+*, January 2026.*  
+[[10.64898/2026.01.28.702291](http://biorxiv.org/content/early/2026/01/31/2026.01.28.702291.abstract)]  
+\___\_  
+
+**Biomolecular condensate architecture of an autophagic cargo at molecular resolution in situ**  
+Boyle, Cruz-León, Lizarrondo, Brenner, Mancilla, Stuke, Jimenez-Niebla, Milles, Welsch, Hunte, Kraft, Hummer, Wilfling  
+*, January 2026.*  
+[[10.64898/2026.01.07.698105](http://biorxiv.org/content/early/2026/01/08/2026.01.07.698105.abstract)]  
+\___\_  
+
+**Binding Entropy Can Be Predicted by Crystallographic Ensembles**  
+Miller, Wankowicz  
+*, January 2026.*  
+[[10.64898/2026.01.19.699807](http://biorxiv.org/content/early/2026/01/20/2026.01.19.699807.abstract)]  
+\___\_  
+
+**dna-parser: a Python library written in Rust for fast encoding of DNA and RNA sequences**  
+Vilain, Aris-Brosou  
+*, January 2026.*  
+[[10.64898/2026.01.20.700656](http://biorxiv.org/content/early/2026/01/21/2026.01.20.700656.abstract)]  
+\___\_  
+
+**Pre-assembly of biomolecular condensate seeds drives RSV replication**  
+Ratnayake, Galloux, Boersma, Noerenberg, Sizun, Sacristan, Sourimant, Lakerveld, Gelderloos, Apperloo, Demyanenko, Baars, Banerjee, Dreier, Furler, Mazur, Bont, Mohammed, Plückthun, Éléouët, Kops, Castello, van Kasteren, Rameix-Welti, Tanenbaum  
+*Nature, January 2026.*  
+[[10.1038/s41586-025-10071-5](https://doi.org/10.1038/s41586-025-10071-5)]  
+\___\_  
+
+**GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling**  
+Chai, Kheiri, Kuo, Shah, Kageler, Ge, Perr, Porat, Lebedenko, Dias, Yankova, Rai, Watkins, Hristov, Tzelepis, Hla, Raman, Calo, Esko, Flynn  
+*Nature, January 2026.*  
+[[10.1038/s41586-025-10052-8](https://doi.org/10.1038/s41586-025-10052-8)]  
+\___\_  
+
+**Behavioral tuning of spider silk thread stiffness circumvents biomaterial trade-offs**  
+Wolff, Rößler, Joel, Jackel, Büsse, Michalik, Ramírez  
+*Proceedings of the National Academy of Sciences, February 2026.*  
+[[10.1073/pnas.2529200123](https://doi.org/10.1073/pnas.2529200123)]  
+\___\_  
+
+**Synthesis of long and functionally active RNAs facilitated by acetal levulinic ester chemistry**  
+Lyu, Katolik, Yaseen, Pater, Robert, Huang, Gagnon, Unrau, Damha  
+*Nucleic Acids Research, January 2026.*  
+[[10.1093/nar/gkaf1525](https://doi.org/10.1093/nar/gkaf1525)]  
+\___\_  
