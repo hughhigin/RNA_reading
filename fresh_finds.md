@@ -1,6 +1,8 @@
-This file is a staging area for me to save papers I find but have not yet sorted or read thoroughly. 
+# Fresh finds - Research
 
-## Categories:  
+This file is a staging area for me to save papers I find but have not yet sorted or read thoroughly.  
+
+## Categories
 
 [RNA Biology](#rna-biology)
 
@@ -42,7 +44,6 @@ Munyao, Rahman, Wang, Beauvil, Yu, Ruggiu
 [[10.1016/j.jbc.2025.110426](https://doi.org/10.1016/j.jbc.2025.110426)]  
 \___\_  
 
-
 ## Structural Studies
 
 **Special issue: Multiscale simulations of DNA from electrons to nucleosomes**  
@@ -56,7 +57,6 @@ Rathinavelan, Sundaresan
 *, January 2025.*  
 [[10.64898/2025.12.14.694268](http://biorxiv.org/content/early/2025/12/16/2025.12.14.694268.abstract)]  
 \___\_  
-
 
 ## Computation
 
@@ -75,7 +75,6 @@ La, Trouth, Ramani, Ramachandran
 *, January 2025.*  
 [[10.64898/2025.12.12.693854](http://biorxiv.org/content/early/2025/12/15/2025.12.12.693854.abstract)]  
 \___\_  
-
 
 ### Bioinformatics
 
@@ -105,7 +104,6 @@ Ashraf, Bunoro-Batista, Ansell, Punetha, Rosario-Garrido, Firlar, Kaelber, Stans
 [[10.1038/s41467-025-65968-6](https://doi.org/10.1038/s41467-025-65968-6)]  
 \___\_  
 
-
 **Atomic models of the Toxoplasma cell invasion machinery**  
 Zeng, Fu, Qian, Huang, Niu, Beatty, Brown, Sibley, Zhang  
 *Nature Structural & Molecular Biology, December 2025.*  
@@ -123,7 +121,6 @@ Fruchard, Sudol, Rouard, Treffkorn-Maurau, Hardy, Bos, Duchateau, Giai Gianetto
 *Nucleic Acids Research, December 2025.*  
 [[10.1093/nar/gkaf1276](https://doi.org/10.1093/nar/gkaf1276)]  
 \___\_  
-
 
 **AlphaFold predictions are valuable hypotheses and accelerate but do not replace experimental structure determination**  
 Terwilliger, Liebschner, Croll, Williams, McCoy, Poon, Afonine, Oeffner, Richardson, Read, Adams  
@@ -143,7 +140,6 @@ Landschaft-Berliner, Goldstein, Teichman, Anava, Gingold, Salzberg, Rieger, Levy
 [[10.1038/s41593-025-02143-6](https://doi.org/10.1038/s41593-025-02143-6)]  
 \___\_  
 
-
 **Chromatin buffers torsional stress during transcription**  
 Qian, Lubkowska, Zhang, Tan, Hong, Jia, Fulbright, Inman, Kay, Jeong, Hauk, Gotte, Berger, Kashlev, Wang  
 *Science,  .*  
@@ -162,7 +158,6 @@ Yudin, Jaskolowski, Fan, Burg, Chandrasekar, Lentzsch, Scaiola, Bothe, Deuerling
 [[10.1126/sciadv.aeb1017](https://doi.org/10.1126/sciadv.aeb1017)]  
 \___\_  
 
-
 **PXDesign: Fast, Modular, and Accurate De Novo Design of Protein Binders**  
 Team, Ren, Sun, Guan, Liu, Gong, Wang, Wang, Cai, Ma, Zhang, Liu, Zhang, Chen, Xiao  
 *, January 2025.*  
@@ -180,9 +175,6 @@ Krueger, Brenner, Shrinivas
 *Nature Computational Science, October 2025.*  
 [[10.1038/s43588-025-00881-y](https://doi.org/10.1038/s43588-025-00881-y)]  
 \___\_  
-
-
-
 
 **Visualizing Disordered Single-Stranded RNA: Connecting Sequence, Structure, and Electrostatics**  
 Plumridge, Andresen, Pollack  
@@ -362,4 +354,118 @@ Wolff, Rößler, Joel, Jackel, Büsse, Michalik, Ramírez
 Lyu, Katolik, Yaseen, Pater, Robert, Huang, Gagnon, Unrau, Damha  
 *Nucleic Acids Research, January 2026.*  
 [[10.1093/nar/gkaf1525](https://doi.org/10.1093/nar/gkaf1525)]  
+\___\_  
+
+**Graph-based RNA structural representation reveals determinants of subcellular localization**  
+Hao, Sun, Ran, Guo, Liu, Bi, Polo, Liu, Li  
+*, January 2026.*  
+[[10.64898/2026.02.23.707397](http://biorxiv.org/content/early/2026/02/24/2026.02.23.707397.abstract)]  
+\___\_  
+
+**When lipids embrace RNA: pH-driven dynamics and mechanisms of LNP-mediated siRNA delivery**  
+Hossain, Valério, Medina, Souza, Orozco  
+*, January 2026.*  
+[[10.64898/2026.02.11.705380](http://biorxiv.org/content/early/2026/02/12/2026.02.11.705380.abstract)]  
+\___\_  
+
+**Accurate predictions of disordered protein ensembles with STARLING**  
+Novak, Lotthammer, Emenecker, Holehouse  
+*Nature, February 2026.*  
+[[10.1038/s41586-026-10141-2](https://doi.org/10.1038/s41586-026-10141-2)]  
+\___\_  
+
+**Ribosomal RNA expansion segments mediate the oligomerization of inactive animal ribosomes**  
+Schwarz, Mueller, Will, Dietrich, Giandomenico, Tushev, Bartnik, Khusainov, Fusco, Schuman  
+*Science,  .*  
+[[10.1126/science.adr4287](https://doi.org/10.1126/science.adr4287)]  
+\___\_  
+
+**Decoding RNA–protein interactions using high-throughput methods**  
+Régis, Pulcina, Kretov  
+*RNA Biology, February 2026.*  
+[[10.1080/15476286.2026.2623240](https://doi.org/10.1080/15476286.2026.2623240)]  
+\___\_  
+
+**The Structural History of Eukarya**  
+Li, Daumiller, Bryant  
+*, January 2026.*  
+[[10.64898/2026.02.04.703859](http://biorxiv.org/content/early/2026/02/06/2026.02.04.703859.abstract)]  
+\___\_  
+
+**Super-resolved imaging of mRNA ultrastructure in cells**  
+Passera, Welzl, Gomez-Segalas, Plaschka, Balzarotti  
+*, January 2026.*  
+[[10.64898/2026.01.23.701081](http://biorxiv.org/content/early/2026/01/23/2026.01.23.701081.abstract)]  
+\___\_  
+
+**Deep models of protein evolution in time generate realistic evolutionary trajectories and functional proteins**  
+Koehl, Prillo, Liu, Xiong, Weng, Savage, Song  
+*, January 2026.*  
+[[10.64898/2026.02.19.706898](http://biorxiv.org/content/early/2026/02/20/2026.02.19.706898.abstract)]  
+\___\_  
+
+**Climate change and antimicrobial resistance**  
+Kalanxhi, Laxminarayan  
+*Nature Reviews Microbiology, February 2026.*  
+[[10.1038/s41579-026-01285-z](https://doi.org/10.1038/s41579-026-01285-z)]  
+\___\_  
+
+**ProteinConformers: large-scale and energetically profiled descriptions of protein conformational landscapes**  
+Zhou, Wei, Sun, Wang, Song, Xu, Li, Zheng, Zhang  
+*, January 2026.*  
+[[10.64898/2026.02.20.707011](http://biorxiv.org/content/early/2026/02/20/2026.02.20.707011.abstract)]  
+\___\_  
+
+**The structural plasticity of nucleic acid duplexes revealed by WAXS and MD**  
+He, Chen, Pollack, Kirmizialtin  
+*Science Advances,  .*  
+[[10.1126/sciadv.abf6106](https://doi.org/10.1126/sciadv.abf6106)]  
+\___\_  
+
+**Untangling or further entangling? Revelation of the complicated world of nucleic acid quadruplex folds**  
+Maddocks, Dans, Cheatham, Harris, Laughton, Orozco, Pollack, Olson, Martin, Harmon, Hopkins, Chakravarthy, Incicco, Schuck, Soranno, Mittag, Wang, Coshic, Badiee, McDonald, Aksimentiev, Pollack, Leung, Alberti, Arosio, Best, Boeynaems, Cai, Collepardo-Guevara, Dignon, Dimova, Elbaum-Garfinkle, Fawzi, Fuxreiter, Gladfelter, Honigmann, Jain, Joseph, Knowles, Lasker, Lemke, Lindorff-Larsen, Lipowsky, Mittal, Mukhopadhyay, Myong, Pappu, Rippe, Shelkovnikova, Vecchiarelli, Wegmann, Zhang, Zhang, Zubieta, Zweckstetter, Dormann, Mittag, Ashraf, Bunoro-Batista, Ansell, Punetha, Rosario-Garrido, Firlar, Kaelber, Stansfeld, Petrou, Trubl, Roux, Borton, Varsani, Li, Sun, Jang, Woodcroft, Tyson, Wrighton, Saleska, Eloe-Fadrosh, Sullivan, Rich, Hu, Schwab, Qiu, Zhang, Bär, Reichle, Panzera, Lupas, Hartmann, Dame, Alva, Hernandez Alvarez, Lin, Zhou, Han, Cheng, Wang, Ju, Zhang, Cox, Corry, Turner, Petkau, Borlaff, Marcum, Howell, Chai, Kheiri, Kuo, Shah, Kageler, Ge, Perr, Porat, Lebedenko, Dias, Yankova, Rai, Watkins, Hristov, Tzelepis, Hla, Raman, Calo, Esko, Flynn, Ratnayake, Galloux, Boersma, Noerenberg, Sizun, Sacristan, Sourimant, Lakerveld, Gelderloos, Apperloo, Demyanenko, Baars, Banerjee, Dreier, Furler, Mazur, Bont, Mohammed, Plückthun, Éléouët, Kops, Castello, van Kasteren, Rameix-Welti, Tanenbaum, Su, Li, Tao, Han, He, Dai, Yuan, Gao, Si, Zhang, Zhou, Shan, Zhou, Chang, Jiang, Ma, Gitter, Mirdita, Yang, Notin, Marks, Chatterjee, Singh, Romero, Heinzinger, Liu, Zheng, Li, Zeng, Shen, Chai, Ju, Ferruz, Glasgow, Kim, Snow, Ntranos, Yang, Hong, Gao, Si, Bronstein, Chang, Yuan, Su, Li, Tao, Han, He, Dai, Zhang, Zhou, Shan, Zhou, Jiang, Gao, Zhang, Fan, Tao, Cheng, Zheng, Chen, Long, Kong, Pu, Guan, Zhang, Li, Steinegger, Ovchinnikov, Yuan, The OPMC, Fei, Wang, Zhang, Shan, Cai, Ma, Wang, Zhang, Yang, Zhang, Fang, Zhang, Du, Shen, Zhang, Zou, Chen, Terwilliger, Liebschner, Croll, Williams, McCoy, Poon, Afonine, Oeffner, Richardson, Read, Adams, Aton, McDonald, Cañardo Alastuey, Azom, Batra, Bezshapkin, Bolyen, Cagle, Caporaso, Debelius, Gorlick, Hamsanipally, Hunger, Keluskar, Liao, Lu, Navas-Molina, Pitman, Rideout, Sazonov, Sathappan, Schwarzberg Lipson, Sfiligoi, Tapo, Vázquez-Baeza, Wu, Xu, Ye, Zhao, Knight, Morton, Zhu, Landschaft-Berliner, Goldstein, Teichman, Anava, Gingold, Salzberg, Rieger, Levy, Pechuk, Setty, Agarwal, Sagi, Cohen, Nikelshparg, Ben-Zvi, Miranda-Vizuete, Zaidel-Bar, Oren-Suissa, Rechavi, Zeng, Fu, Qian, Huang, Niu, Beatty, Brown, Sibley, Zhang, Earp, Yuan, Koplin, Porsdam Mann, Krueger, Brenner, Shrinivas, Moffatt, Arora, Vaeth, Guzman, Bhardwaj, Hoelscher, Gifford, Russ, Dominguez, Taliaferro, Kallenborn, Dabbaghie, Steinegger, Schmidt, Ramtel, Gu, Abdulkareem, Randall, Feng, Suwayyid, Zia, Wee, Hozumi, Chen, Wei, Luo, Hess, Aierken, Qiang, Joseph, Zwicker, Dao, Ghent, Uversky, Rahman, Gilroy, Barr, Jang, Qin, Wang, Kornmann, Wu, Hong, Zhu, Gao, Ma, Lan, Miller, Wankowicz, Yousefi, Laubach, Heins, Testa, Gersting, Bonn, Boyle, Cruz-León, Lizarrondo, Brenner, Mancilla, Stuke, Jimenez-Niebla, Milles, Welsch, Hunte, Kraft, Hummer, Wilfling, Boyle, Cruz-León, Lizarrondo, Brenner, Mancilla, Stuke, Jimenez-Niebla, Milles, Welsch, Hunte, Kraft, Hummer, Wilfling, Wolff, Rößler, Joel, Jackel, Büsse, Michalik, Ramírez, Rep, Wang, Chen, Carrique, Sharps, Grimes, Fodor, Gilchrist, Mirdita, Steinegger, Wayment-Steele, Kim, Choe, Nicol, Wellington-Oguri, Watkins, Parra Sperberg, Huang, Participants, Das, Fruchard, Sudol, Rouard, Treffkorn-Maurau, Hardy, Bos, Duchateau, Giai Gianetto, Matondo, Bonhomme, Thuillier, Marchand, Motorin, Bregeon, Mazel, Hamdane, Baharoglu, The Gene Ontology Consortium , Burastero, Jones, Defelipe, Zavrtanik, Hadži, Hoffmann, Garcia-Alai, Riquelme-Barrios, Cusack, Rivera-Montero, Vásquez-Camus, Burdack, Brameyer, Berg, Yeşiltaç-Tosun, Kaiser, Giehr, Jung, Lyu, Katolik, Yaseen, Pater, Robert, Huang, Gagnon, Unrau, Damha, Vaitkevičius, Johansson, Nordin, Cantù, Hevler, Sojitra, Caval, Schoof, Mateus, Bertozzi, Vilain, Aris-Brosou, Barlas, Özsan, Prévost, Sacquin-Mora, Karaca, Sandin, Cohen, Morlon, Burki, Kabir, Dey, Nafees, Hoque, Broyles, He, Mohamed, Moore, Lindner, Moore, Swedlow, Wong, Burel, White Bear, De Bisschop, Lécuyer, Waldispühl, Wang, Hu, Fronhofer, Pollack, Plumridge, Andresen, Pollack, Kim, Correy, Hall, Rachman, Mailhot, Togo, Gonciarz, Jaishankar, Neitz, Hantz, Doruk, Stevens, Diolaiti, Reid, Gopalkrishnan, Krogan, Renslo, Ashworth, Shoichet, Fraser, Portal, Karroucha, Mallet, Bonomi, Korbeld, Viliuga, Fürst, Iglesias, Avalos-Padilla, Bárcenas, Fernàndez-Busquets, Ly, Freites, Bertaccini, Evans, Dickinson, Tobias, Pathak, Norrild, Johansson, O’Shea, Morth, Lindorff-Larsen, Winther, Munyao, Rahman, Wang, Beauvil, Yu, Ruggiu, Li, Joshi, Yin, Wijdeven, Koç, Zijlmans, Santos-Barriopedro, Mei, Wu, Shademan, Zawisza, Bos, Chopra, Tanenbaum, Sharp, Vermeulen, Raz, Joo, Ishiguro, Midorikawa, Shigi, Kimura, Liiv, Yokoyama, Ito, Shirouzu, Remme, Miyauchi, Suzuki, Erasmus, Wang, He, Pabit, Pollack, Kirmizialtin, Ward, Richardson, Lin, Stamm, Wright, Kim, Bicknell, Ahmed, Jones, Davis, Metkar, Yu, Heidari, Palacio-Rodriguez, Ruan, Mingu, Hidayat, Bode, Sikora, Hummer, Lemke, Lee, Chakraborty, Kim, Ali, Mitra, Zajac, Brown, Pincus, Krishnan, Hummer, Team, Ren, Sun, Guan, Liu, Gong, Wang, Wang, Cai, Ma, Zhang, Liu, Zhang, Chen, Xiao, La, Trouth, Ramani, Ramachandran, San Emeterio, Pollack, Lamb, Zoltowski, Pabit, Li, Crane, Pollack, Li, Joshi, Yin, Wijdeven, Koç, Zijlmans, Santos-Barriopedro, Mei, Wu, Shademan, Zawisza, Bos, Chopra, Tanenbaum, Sharp, Vermeulen, Raz, Joo, Chow, Chu, Li, Nalbant, Dozic, Kida, Lareau, Lambert, Tavakoli, Dharuman, Yang, Bhethanabotla, Kaur, Hill, Ramanathan, Anandkumar, Arnold, Skopintsev, Esain-Garcia, DeTurk, Yoon, Zhou, Weiss, Kamalu, Chamraj, Loi, Langeberg, Boger, Nisonoff, Karp, Chen, Shi, Vohra, Banfield, Cate, Jacobsen, Doudna, Maristany, Emelianova, Chew, Aguirre, Collepardo-Guevara, Joseph, Lee, He, Oda, Rao, Kim, Kim, Kim, Heng, Kowerko, Li, Nguyen, Sampathkumar, Enrique Gomez, Chen, Yoshizawa, Kuraishi, Ogawa, Zou, Paullier, Zhao, Chen, Hsu, Hirano, Gezelle, Haack, Hong, Jadhav, Koirala, Kretsch, Lewicka, Li, Marcia, Piccirilli, Rudolfs, Srivastava, Steckelberg, Su, Toor, Wang, Yang, Zhang, Zou, Baker, Chen, Chiu, Demkin, Favor, Hummer, Joshi, Kryshtafovych, Kucukbenli, Miao, Moult, Munley, Reade, Viel, Westhof, Zhang, Das, Krepel, Ianiski, Janssen, Snijder, Poulet, Witmer, Li, Cathelin, van Wolfswinkel, Rathinavelan, Sundaresan  
+*Advances in Physics: X, January 2025.*  
+[[10.64898/2025.12.14.694268](http://biorxiv.org/content/early/2025/12/16/2025.12.14.694268.abstract)]  
+\___\_  
+
+**Non-equilibrium modeling of directed flux through biomolecular condensates**  
+Wani, Joseph  
+*, January 2026.*  
+[[10.64898/2026.02.03.703649](http://biorxiv.org/content/early/2026/02/06/2026.02.03.703649.abstract)]  
+\___\_  
+
+**Quantitative and Comprehensive Decomposition of the Ion Atmosphere around Nucleic Acids**  
+Bai, Greenfeld, Travers, Chu, Lipfert, Doniach, Herschlag  
+*J. Am. Chem. Soc., December 2007.*  
+[[10.1021/ja075020g](https://doi.org/10.1021/ja075020g)]  
+\___\_  
+
+**GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling**  
+Chai, Kheiri, Kuo, Shah, Kageler, Ge, Perr, Porat, Lebedenko, Dias, Yankova, Rai, Watkins, Hristov, Tzelepis, Hla, Raman, Calo, Esko, Flynn  
+*Nature, January 2026.*  
+[[10.1038/s41586-025-10052-8](https://doi.org/10.1038/s41586-025-10052-8)]  
+\___\_  
+
+**Atomic-resolution structural information from scattering experiments on macromolecules in solution**  
+Hummer  
+*,  .*  
+[[10.1103/PhysRevE.87.052712](https://link.aps.org/doi/10.1103/PhysRevE.87.052712)]  
+\___\_  
+
+**Rapid directed evolution guided by protein language models and epistatic interactions**  
+Tran, Nemeth, Bartie, Chandrasekaran, Fanton, Moon, Hie, Konermann, Hsu  
+*Science,  .*  
+[[10.1126/science.aea1820](https://doi.org/10.1126/science.aea1820)]  
+\___\_  
+
+**Coordinating mRNA maturation: The U1 relay model**  
+Yoon, Quan, Soles, Shi  
+*Molecular Cell, February 2026.*  
+[[10.1016/j.molcel.2026.01.006](https://doi.org/10.1016/j.molcel.2026.01.006)]  
+\___\_  
+
+**Information theory optimization of signals from small-angle scattering measurements**  
+Rambo, Tainer  
+*Biophysical Journal, August 2025.*  
+[[https://doi.org/10.1016/j.bpj.2025.06.031](https://www.sciencedirect.com/science/article/pii/S0006349525004084)]  
 \___\_  
